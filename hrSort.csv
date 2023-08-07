@@ -1,0 +1,1001 @@
+empId,first_name,last_name,birthdate,gender,race,department,jobtitle,location,hire_date,termdate,location_city,location_state,age
+00-0037846,Kimmy,Walczynski,04-06-1991,Male,Hispanic or Latino,Engineering,Programmer Analyst I,Headquarters,20-01-2002,NULL,Cleveland,Ohio,32
+00-0041533,Ignatius,Springett,29-06-1984,Male,White,Business Development,Business Analyst,Headquarters,08-04-2019,NULL,Cleveland,Ohio,39
+00-0045747,Corbie,Bittlestone,29-07-1989,Male,Black or African American,Sales,Solutions Engineer Manager,Headquarters,12-10-2010,NULL,Cleveland,Ohio,33
+00-0055274,Baxy,Matton,14-09-1982,Female,White,Services,Service Tech,Headquarters,10-04-2005,NULL,Cleveland,Ohio,40
+00-0076100,Terrell,Suff,11-04-1994,Female,Two or More Races,Product Management,Business Analyst,Remote,29-09-2010,29-10-2029,Flint,Michigan,29
+00-0116166,Kacie,Offiler,18-01-1971,Male,Asian,Engineering,Developer III,Headquarters,01-09-2018,NULL,Cleveland,Ohio,52
+00-0363185,Sandro,Admans,19-11-1979,Male,Two or More Races,Product Management,Quality Engineer,Headquarters,08-11-2012,NULL,Cleveland,Ohio,43
+00-0380704,Eugene,Lehrahan,14-10-1988,Female,Black or African American,Engineering,Developer I,Headquarters,27-06-2007,NULL,Cleveland,Ohio,34
+00-0381660,Wainwright,Corfield,13-12-1996,Male,Asian,Engineering,Business Systems Development Analyst,Headquarters,20-02-2001,05-12-2008,Cleveland,Ohio,26
+00-0419202,Dyann,Isoldi,27-03-1980,Male,Two or More Races,Engineering,Web Developer I,Headquarters,27-01-2005,NULL,Cleveland,Ohio,43
+00-0472287,Grantley,Oret,06-09-1975,Male,Two or More Races,Services,Service Tech II,Headquarters,01-11-2004,NULL,Cleveland,Ohio,47
+00-0472832,Elmore,Worner,07-01-1966,Female,White,Engineering,Business Systems Development Analyst,Headquarters,05-12-2000,NULL,Cleveland,Ohio,57
+00-0566380,Dud,Brain,17-03-1984,Male,Two or More Races,Business Development,Business Analyst,Headquarters,17-09-2008,NULL,Cleveland,Ohio,39
+00-0571075,Aguie,Conford,02-11-1971,Male,White,Business Development,Research Assistant II,Headquarters,25-11-2015,NULL,Cleveland,Ohio,51
+00-0624189,Katerina,Rosborough,20-08-1967,Male,Hispanic or Latino,Engineering,Analyst Programmer,Headquarters,17-05-2019,NULL,Cleveland,Ohio,55
+00-0715212,Alida,Longley,28-01-1973,Female,American Indian or Alaska Native,Accounting,Staff Accountant III,Headquarters,04-02-2002,NULL,Cleveland,Ohio,50
+00-0755645,Laraine,Petre,11-05-1967,Male,White,Engineering,Software Engineer I,Headquarters,30-09-2010,NULL,Cleveland,Ohio,56
+00-0778934,Gareth,MacCook,21-02-1987,Female,Black or African American,Legal,Senior Attorney,Remote,18-02-2010,NULL,Flint,Michigan,36
+00-0794247,Scottie,Chestney,23-02-1972,Female,Black or African American,Engineering,Data Visualization Specialist,Headquarters,03-07-2002,NULL,Cleveland,Ohio,51
+00-0948136,Christophorus,Boseley,23-05-1983,Female,Two or More Races,Marketing,Senior Editor,Headquarters,06-09-2007,NULL,Cleveland,Ohio,40
+00-0971612,Arleyne,Froome,01-08-1999,Male,Two or More Races,Engineering,Software Consultant,Headquarters,09-04-2015,NULL,Cleveland,Ohio,23
+00-1051096,Todd,Cashen,19-06-1999,Female,White,Accounting,Financial Analyst,Remote,20-06-2014,NULL,Pittsburgh,Pennsylvania,24
+00-1052230,Elmo,McNee,16-12-1988,Female,Black or African American,Services,Service Manager,Headquarters,18-07-2002,22-05-2006,Cleveland,Ohio,34
+00-1100714,Regen,Nafzger,06-04-1990,Male,White,Human Resources,Senior Recruiter,Headquarters,23-07-2016,12-07-2022,Cleveland,Ohio,33
+00-1147503,Penelope,Wenman,19-12-1994,Male,White,Business Development,Research Assistant II,Headquarters,10-09-2019,NULL,Cleveland,Ohio,28
+00-1189819,Rudolf,Reichardt,05-06-1979,Male,Black or African American,Business Development,Business Analyst,Remote,07-05-2007,25-02-2022,Philadelphia,Pennsylvania,44
+00-1222963,Tobiah,Fruchon,17-10-1991,Female,Asian,Services,Service Tech II,Headquarters,13-02-2011,NULL,Cleveland,Ohio,31
+00-1268049,Fay,Monnelly,09-07-1966,Male,Native Hawaiian or Other Pacific Islander,Engineering,Software Engineer I,Headquarters,24-02-2010,21-03-2030,Cleveland,Ohio,57
+00-1277358,Lola,Burrells,02-10-1973,Male,Black or African American,Human Resources,Senior Recruiter,Remote,08-03-2008,09-10-2024,Pittsburgh,Pennsylvania,49
+00-1284831,Hamel,Edgeler,22-12-1973,Male,Two or More Races,Human Resources,HR Manager,Headquarters,08-08-2001,31-10-2007,Cleveland,Ohio,49
+00-1331085,Shalne,Berntssen,20-05-1979,Female,Hispanic or Latino,Business Development,Research Assistant II,Headquarters,19-12-2008,NULL,Cleveland,Ohio,44
+00-1418617,Nefen,Russan,18-02-1997,Female,Two or More Races,Training,Trainer III,Headquarters,21-01-2007,NULL,Cleveland,Ohio,26
+00-1451930,Woodie,Hayhow,18-01-1995,Female,White,Engineering,Programmer III,Remote,04-08-2001,NULL,Madison,Wisconsin,28
+00-1485605,L;urette,Stango,13-04-1991,Male,Black or African American,Training,Training Manager,Remote,29-11-2016,NULL,Canton,Ohio,32
+00-1499371,Claude,Ales0,29-04-1984,Female,Asian,Sales,Pre-Sales Consultant,Remote,31-03-2014,NULL,Youngstown,Ohio,39
+00-1557949,Virginia,Teligin,25-12-1982,Female,Black or African American,Engineering,Data Coordiator,Headquarters,27-06-2014,NULL,Cleveland,Ohio,40
+00-1695354,Starr,Yitzhok,11-04-1998,Female,White,Training,Administrative Assistant II,Headquarters,14-07-2011,NULL,Cleveland,Ohio,25
+00-1722938,Perla,Durrand,11-03-1976,Male,White,Sales,Relationshiop Manager,Headquarters,01-01-2014,10-01-2023,Cleveland,Ohio,47
+00-1728402,Mahala,McTrustie,07-06-1974,Female,Asian,Business Development,Research Assistant II,Headquarters,15-04-2015,NULL,Cleveland,Ohio,49
+00-1735797,Hobart,Bertrand,22-03-1997,Female,White,Business Development,Research Assistant II,Headquarters,17-09-2019,NULL,Cleveland,Ohio,26
+00-1792130,Nobe,Leathe,23-07-1993,Male,Black or African American,Engineering,Developer III,Headquarters,23-01-2011,07-12-2024,Cleveland,Ohio,30
+00-1830166,Peta,Gosson,02-06-1975,Female,Two or More Races,Human Resources,Human Resources Analyst,Headquarters,02-06-2007,NULL,Cleveland,Ohio,48
+00-1861400,Ninnette,Batter,11-03-1993,Male,Black or African American,Business Development,Research Assistant II,Headquarters,04-02-2008,NULL,Cleveland,Ohio,30
+00-1877605,Bibbie,Matteoli,18-06-1997,Male,Asian,Support,Desktop Support Technician,Headquarters,05-05-2008,02-03-2024,Cleveland,Ohio,26
+00-1892609,Averell,Paintain,25-10-1971,Female,Two or More Races,Research and Development,Operator,Headquarters,02-01-2013,NULL,Cleveland,Ohio,51
+00-1954462,Marcel,Fowkes,18-06-1993,Male,Asian,Accounting,Tax Accountant,Headquarters,20-07-2008,NULL,Cleveland,Ohio,30
+00-1957612,Artus,Cawcutt,28-02-1970,Female,Asian,Services,Service Tech III,Headquarters,08-07-2005,01-08-2012,Cleveland,Ohio,53
+00-2010536,Emili,Cowl,10-05-1978,Male,Asian,Engineering,Senior Developer,Headquarters,30-07-2009,NULL,Cleveland,Ohio,45
+00-2209303,Edeline,Painten,16-03-1978,Male,Two or More Races,Services,Service Coordinator,Headquarters,17-01-2011,NULL,Cleveland,Ohio,45
+00-2228674,Meggi,Mc Ilory,09-09-1987,Male,White,Training,Senior Trainer,Remote,30-11-2005,NULL,Scranton,Pennsylvania,35
+00-2229651,Giordano,Muckian,21-08-1984,Female,Black or African American,Business Development,Research Assistant I,Remote,11-04-2004,NULL,Akron,Ohio,38
+00-2260658,Nickolas,Coopey,21-05-1978,Male,Two or More Races,Support,Support Staff II,Headquarters,02-01-2001,NULL,Cleveland,Ohio,45
+00-2301130,Corrina,Blooman,19-10-1971,Female,White,Services,Service Manager,Remote,28-07-2013,NULL,Detroit,Michigan,51
+00-2334565,Odey,Brough,19-12-1992,Male,Black or African American,Engineering,Systems Administrator I,Remote,27-08-2011,NULL,Flint,Michigan,30
+00-2367299,Lenka,Astridge,01-12-2000,Male,Two or More Races,Human Resources,Human Resources Analyst,Headquarters,13-08-2019,NULL,Cleveland,Ohio,22
+00-2509034,Gunar,Dinkin,27-11-1988,Male,Hispanic or Latino,Training,Content Developer III,Headquarters,19-12-2017,NULL,Cleveland,Ohio,34
+00-2607971,Gale,Dreossi,16-06-1972,Male,White,Auditing,Internal Auditor,Headquarters,02-02-2006,01-07-2018,Cleveland,Ohio,51
+00-2623755,Chrysa,Brownell,25-04-1983,Male,White,Engineering,Administrative Officer,Headquarters,22-02-2018,01-02-2027,Cleveland,Ohio,40
+00-2637590,Britte,Royds,06-03-1980,Male,White,Training,Assistant Trainer,Headquarters,05-05-2016,NULL,Cleveland,Ohio,43
+00-2682864,Bil,Wanden,28-06-1982,Male,White,Engineering,Programmer Analyst I,Headquarters,24-02-2009,NULL,Cleveland,Ohio,41
+00-2704725,Ronda,Dictus,28-11-1975,Female,Hispanic or Latino,Training,Trainer II,Headquarters,07-12-2003,NULL,Cleveland,Ohio,47
+00-2709445,Loree,Neno,16-01-1977,Female,Black or African American,Research and Development,Operator,Headquarters,26-04-2017,NULL,Cleveland,Ohio,46
+00-2773154,Teena,Tolan,11-09-1992,Male,American Indian or Alaska Native,Human Resources,Recruiter,Headquarters,11-02-2014,NULL,Cleveland,Ohio,30
+00-2861998,Karine,Seage,07-09-1966,Male,Black or African American,Training,Trainer III,Headquarters,12-08-2017,NULL,Cleveland,Ohio,56
+00-2874422,Diandra,Bourget,06-04-1971,Male,White,Human Resources,Recruiter,Remote,26-07-2003,14-01-2015,Cleveland,Ohio,52
+00-2889513,Dodi,Caves,05-07-1999,Male,White,Business Development,Research Assistant I,Remote,16-11-2004,NULL,Levittown,Pennsylvania,24
+00-2950779,Hyman,Dancey,23-04-1981,Female,White,Training,Support Staff,Remote,10-06-2015,NULL,Palatine,Illinois,42
+00-3008455,Rourke,Dawkins,26-09-1969,Male,White,Business Development,Business Analyst,Headquarters,28-10-2007,NULL,Cleveland,Ohio,53
+00-3020430,Northrup,Arendt,01-12-2001,Male,Asian,Services,Research Associate,Remote,06-09-2011,NULL,Columbus,Ohio,21
+00-3030708,Guntar,Arro,22-04-1997,Female,Black or African American,Business Development,Research Assistant II,Headquarters,16-11-2020,NULL,Cleveland,Ohio,26
+00-3052411,Midge,Orpyne,04-01-1984,Female,Asian,Engineering,Senior Quality Engineer,Headquarters,21-07-2010,NULL,Cleveland,Ohio,39
+00-3105004,Isador,Crady,08-06-1968,Female,Hispanic or Latino,Training,Assistant Trainer,Headquarters,19-11-2020,NULL,Cleveland,Ohio,55
+00-3135807,Nichol,Dionisii,28-08-1994,Female,Asian,Business Development,Research Assistant II,Headquarters,19-02-2017,NULL,Cleveland,Ohio,28
+00-3138749,Dorey,Diperaus,20-12-1978,Male,White,Sales,Customer Success Manager,Headquarters,06-04-2006,NULL,Cleveland,Ohio,44
+00-3208324,Lanie,Plewes,25-07-1992,Female,American Indian or Alaska Native,Support,Help Desk Technician,Remote,01-03-2008,NULL,East Saint Louis,Illinois,31
+00-3214670,Mahmoud,De L'Isle,04-09-1990,Male,Two or More Races,Accounting,Accounting Assistant III,Headquarters,06-03-2010,NULL,Cleveland,Ohio,32
+00-3217869,Carlynne,Gouldthorpe,11-04-1968,Female,Black or African American,Accounting,Staff Accountant I,Headquarters,17-08-2009,NULL,Cleveland,Ohio,55
+00-3334414,Modesta,Lanktree,13-02-1997,Female,Black or African American,Engineering,Senior Developer,Headquarters,30-04-2002,NULL,Cleveland,Ohio,26
+00-3341718,Tildie,Ranvoise,13-08-1982,Male,Asian,Engineering,Software Engineer III,Headquarters,21-08-2007,NULL,Cleveland,Ohio,40
+00-3389894,Tallulah,Dowty,26-01-1983,Male,Two or More Races,Engineering,Software Engineer I,Headquarters,02-02-2006,NULL,Cleveland,Ohio,40
+00-3402094,Addie,Coldman,10-07-2002,Female,American Indian or Alaska Native,Engineering,Senior Developer,Headquarters,25-09-2011,NULL,Cleveland,Ohio,21
+00-3457300,Eleanore,Pudner,13-12-1996,Female,Black or African American,Engineering,Senior Developer,Headquarters,28-02-2002,NULL,Cleveland,Ohio,26
+00-3492248,Carlene,Goldwater,19-01-1975,Female,Two or More Races,Business Development,Business Analyst,Remote,25-02-2019,NULL,Chicago,Illinois,48
+00-3597335,Amara,Jacobs,14-06-1982,Male,White,Sales,Solutions Engineer,Remote,07-02-2006,NULL,Columbus,Ohio,41
+00-3679205,Heall,Conville,08-05-1994,Male,Two or More Races,Training,Administrative Assistant I,Remote,12-11-2010,NULL,Detroit,Michigan,29
+00-3739286,Jake,Dawdry,26-02-1993,Male,White,Engineering,Software Engineer II,Headquarters,30-09-2019,NULL,Cleveland,Ohio,30
+00-3744044,Maribelle,Bisson,22-06-1998,Female,White,Training,Assistant Trainer,Remote,21-01-2016,NULL,Milwaukee,Wisconsin,25
+00-3758963,Calypso,Connold,27-09-1984,Female,Asian,Business Development,Business Analyst,Remote,22-11-2001,NULL,Harrisburg,Pennsylvania,38
+00-3855769,Tanitansy,Fancett,30-05-1995,Female,Two or More Races,Human Resources,Human Resources Analyst,Headquarters,31-10-2005,NULL,Cleveland,Ohio,28
+00-3860994,Allyce,Giacobazzi,04-04-1969,Male,Native Hawaiian or Other Pacific Islander,Marketing,Media Manager I,Headquarters,27-12-2019,26-12-2022,Cleveland,Ohio,54
+00-3961040,Filberte,Morant,27-10-1977,Male,Asian,Engineering,Web Developer I,Headquarters,06-03-2002,NULL,Cleveland,Ohio,45
+00-3964552,Sergei,Glidden,15-02-1996,Male,Two or More Races,Product Management,Project Manager,Headquarters,04-11-2016,NULL,Cleveland,Ohio,27
+00-3987484,Chelsy,Clacey,12-09-1991,Female,Two or More Races,Training,Training Manager,Headquarters,30-01-2006,23-07-2021,Cleveland,Ohio,31
+00-4123013,Romy,Sandever,20-01-1969,Male,Hispanic or Latino,Research and Development,Research Assistant I,Remote,12-08-2011,NULL,Springfield,Ohio,54
+00-4202411,Rorie,Rice,13-03-1982,Male,Hispanic or Latino,Engineering,Data Coordiator,Headquarters,16-07-2014,NULL,Cleveland,Ohio,41
+00-4254147,Karel,Gullen,18-12-1993,Male,Two or More Races,Sales,Relationshiop Manager,Remote,08-03-2013,NULL,Dayton,Ohio,29
+00-4259069,Marcela,Bostock,09-01-1979,Male,Asian,Engineering,Automation Specialist I,Headquarters,01-01-2005,NULL,Cleveland,Ohio,44
+00-4464648,Agretha,Brunning,15-02-1978,Female,Black or African American,Engineering,Senior Developer,Headquarters,28-04-2017,NULL,Cleveland,Ohio,45
+00-4481784,Willdon,Pirozzi,28-03-1997,Female,Two or More Races,Support,Support Staff,Remote,12-03-2016,NULL,Aurora,Illinois,26
+00-4521988,Paddie,Mallebone,22-11-1967,Male,Black or African American,Human Resources,Recruiter,Remote,04-07-2016,NULL,Youngstown,Ohio,55
+00-4585118,Karina,Slocum,19-09-1993,Female,Two or More Races,Services,Service Tech,Headquarters,23-12-2018,NULL,Cleveland,Ohio,29
+00-4609499,Gun,Heathorn,30-10-1978,Male,Native Hawaiian or Other Pacific Islander,Services,Service Tech III,Remote,25-12-2015,NULL,Fort Wayne,Indiana,44
+00-4634919,Dario,Renshall,07-01-1971,Female,Asian,Accounting,Budget/Accounting Analyst III,Remote,10-04-2011,NULL,Detroit,Michigan,52
+00-4767568,Bartholemy,Schutter,27-09-1975,Male,American Indian or Alaska Native,Services,Service Tech III,Remote,06-07-2009,NULL,Scranton,Pennsylvania,47
+00-4872960,Gamaliel,McRoberts,10-11-1978,Male,Asian,Accounting,Senior Cost Accountant,Remote,30-12-2019,NULL,Lexington,Kentucky,44
+00-4890880,Demetre,Chaulk,20-03-1977,Male,Asian,Sales,Account Manager,Headquarters,05-03-2014,NULL,Cleveland,Ohio,46
+00-4971801,Temple,Banasevich,14-05-1991,Female,American Indian or Alaska Native,Engineering,Programmer III,Remote,11-10-2020,NULL,Louisville,Kentucky,32
+00-5033764,Gabie,Olivier,25-12-1976,Male,Two or More Races,Engineering,Senior Developer,Headquarters,23-06-2005,NULL,Cleveland,Ohio,46
+00-5045552,Carlen,Bruhnke,06-08-1990,Male,Hispanic or Latino,Engineering,Data Coordiator,Headquarters,18-07-2016,NULL,Cleveland,Ohio,32
+00-5070457,Nathaniel,Coolahan,02-12-1998,Female,White,Accounting,Staff Accountant I,Headquarters,22-07-2003,NULL,Cleveland,Ohio,24
+00-5137192,Sarajane,Price,28-01-1970,Male,Two or More Races,Accounting,Budget/Accounting Analyst I,Remote,24-05-2016,NULL,Mansfield,Ohio,53
+00-5155617,Hadria,Pallasch,13-04-1987,Male,Black or African American,Engineering,Programmer II,Headquarters,02-12-2016,NULL,Cleveland,Ohio,36
+00-5175297,Bethina,Mathissen,24-01-1966,Female,Black or African American,Engineering,Programmer III,Headquarters,23-12-2001,28-03-2012,Cleveland,Ohio,57
+00-5221572,Joshua,Rubinsohn,05-04-1976,Male,Asian,Services,Service Tech,Headquarters,12-07-2006,NULL,Cleveland,Ohio,47
+00-5273292,Philippa,Garrod,14-09-1986,Female,Hispanic or Latino,Product Management,Project Manager,Headquarters,29-03-2012,NULL,Cleveland,Ohio,36
+00-5421994,Sile,Schultheiss,23-01-1986,Female,White,Accounting,Cost Accountant,Headquarters,10-12-2012,28-10-2021,Cleveland,Ohio,37
+00-5614221,Conroy,Vickars,28-08-1969,Male,Native Hawaiian or Other Pacific Islander,Business Development,Business Analyst,Remote,03-01-2008,NULL,Pittsburgh,Pennsylvania,53
+00-5623981,Roscoe,Swindells,28-04-1979,Female,Asian,Accounting,Tax Accountant,Headquarters,22-12-2012,NULL,Cleveland,Ohio,44
+00-5649238,Antonietta,Obal,03-11-1977,Male,Asian,Engineering,Software Test Engineer III,Headquarters,13-02-2003,24-06-2008,Cleveland,Ohio,45
+00-5687686,Yettie,Swanborough,03-07-1993,Male,Hispanic or Latino,Sales,Solutions Engineer Manager,Headquarters,22-03-2001,NULL,Cleveland,Ohio,30
+00-5880378,Dannie,Thornton-Dewhirst,18-10-2000,Female,Asian,Accounting,Staff Accountant IV,Headquarters,12-12-2002,30-05-2019,Cleveland,Ohio,22
+00-5895027,Nessy,Shute,05-04-1982,Male,Asian,Engineering,Systems Administrator I,Headquarters,13-04-2004,NULL,Cleveland,Ohio,41
+00-5909899,Louise,Domingues,26-04-1977,Male,Hispanic or Latino,Research and Development,Senior Quality Engineer,Headquarters,05-04-2014,NULL,Cleveland,Ohio,46
+00-5917185,Frasquito,Frape,02-08-1972,Male,White,Engineering,Software Engineer III,Headquarters,29-06-2002,16-08-2012,Cleveland,Ohio,50
+00-5955583,Leonie,Bridgeman,17-11-1997,Male,Native Hawaiian or Other Pacific Islander,Training,Administrative Assistant I,Remote,11-04-2009,NULL,Dayton,Ohio,25
+00-5958157,Marijn,Shotboulte,11-07-1984,Male,Two or More Races,Accounting,Senior Cost Accountant,Headquarters,16-09-2017,NULL,Cleveland,Ohio,39
+00-5965019,Gertrud,Jeavon,11-06-1987,Female,White,Research and Development,Research Assistant I,Remote,14-03-2008,NULL,Cincinnati,Ohio,36
+00-5992394,Gordie,Mariaud,24-07-1990,Male,Asian,Accounting,Staff Accountant I,Headquarters,29-05-2011,NULL,Cleveland,Ohio,33
+00-5993032,Corrinne,Very,27-05-1991,Male,Two or More Races,Research and Development,Research Assistant I,Headquarters,21-06-2005,23-03-2015,Cleveland,Ohio,32
+00-6077710,Frank,Sikorsky,10-02-1998,Male,Black or African American,Engineering,Business Systems Development Analyst,Remote,01-08-2007,NULL,Columbus,Ohio,25
+00-6093562,Linoel,Berrecloth,19-07-1973,Male,Black or African American,Engineering,Data Visualization Specialist,Headquarters,06-11-2006,NULL,Cleveland,Ohio,50
+00-6114236,Lucias,Sworder,01-03-1997,Male,Asian,Engineering,Software Test Engineer IV,Headquarters,31-10-2007,NULL,Cleveland,Ohio,26
+00-6163624,Malvina,Mc Grath,12-09-2001,Male,Two or More Races,Engineering,Data Visualization Specialist,Headquarters,17-05-2005,03-11-2009,Cleveland,Ohio,21
+00-6172539,Joanne,Jacob,13-04-1974,Female,Hispanic or Latino,Engineering,Senior Developer,Headquarters,03-02-2003,NULL,Cleveland,Ohio,49
+00-6252646,Yves,Yurivtsev,19-09-1990,Male,Native Hawaiian or Other Pacific Islander,Human Resources,Human Resources Analyst,Headquarters,13-07-2019,NULL,Cleveland,Ohio,32
+00-6338870,Curtice,Kidgell,14-03-1980,Female,White,Engineering,Senior Developer,Headquarters,18-03-2018,24-03-2023,Cleveland,Ohio,43
+00-6371948,Ruby,O'Duilleain,10-05-1986,Female,Asian,Business Development,Research Assistant I,Headquarters,07-09-2008,09-01-2012,Cleveland,Ohio,37
+00-6420231,Joseito,Walaron,16-05-1975,Male,Asian,Services,Service Coordinator,Headquarters,02-11-2006,NULL,Cleveland,Ohio,48
+00-6460144,Helli,Hothersall,24-01-1990,Male,Black or African American,Engineering,Systems Administrator I,Headquarters,22-06-2012,NULL,Cleveland,Ohio,33
+00-6479395,Aura,Steagall,19-07-1978,Male,White,Accounting,Staff Accountant I,Headquarters,28-03-2013,23-02-2030,Cleveland,Ohio,45
+00-6565696,Flory,Ibbitt,09-03-1968,Female,White,Human Resources,HR Manager,Headquarters,13-08-2009,03-06-2014,Cleveland,Ohio,55
+00-6609229,Leontine,Rammell,15-08-1986,Female,White,Product Management,Project Manager,Headquarters,10-11-2001,NULL,Cleveland,Ohio,36
+00-6666091,Carly,Everall,25-12-1966,Female,American Indian or Alaska Native,Support,Help Desk Technician,Headquarters,11-01-2004,NULL,Cleveland,Ohio,56
+00-6675478,Reginald,Gosker,13-10-1979,Female,Hispanic or Latino,Engineering,Software Engineer I,Remote,17-10-2020,NULL,Louisville,Kentucky,43
+00-6722855,Kimmi,Moff,08-03-1996,Male,Two or More Races,Engineering,Web Developer I,Headquarters,04-04-2001,NULL,Cleveland,Ohio,27
+00-6768311,Adina,Marcq,16-01-1991,Female,Asian,Engineering,Systems Administrator I,Remote,18-12-2007,NULL,Reading,Pennsylvania,32
+00-6790860,Enrica,Cohalan,23-01-1994,Female,White,Engineering,Data Coordiator,Headquarters,26-04-2009,NULL,Cleveland,Ohio,29
+00-6792940,Valera,Hannent,14-02-1993,Male,White,Engineering,Database Administrator I,Headquarters,29-05-2017,NULL,Cleveland,Ohio,30
+00-6797967,Albrecht,Geffinger,18-01-1980,Female,White,Sales,Solutions Engineer Manager,Headquarters,19-11-2018,NULL,Cleveland,Ohio,43
+00-6804149,Orsa,Pafford,25-12-1994,Male,Native Hawaiian or Other Pacific Islander,Human Resources,Human Resources Analyst,Headquarters,21-12-2001,NULL,Cleveland,Ohio,28
+00-6902222,Pall,Snedker,07-04-1969,Male,Hispanic or Latino,Support,Desktop Support Technician,Headquarters,04-10-2009,31-01-2014,Cleveland,Ohio,54
+00-6974128,Eilis,Byford,07-05-1966,Male,White,Engineering,Software Consultant,Headquarters,04-11-2014,NULL,Cleveland,Ohio,57
+00-7012064,Maridel,Canario,17-11-1990,Non-Conforming,Hispanic or Latino,Engineering,Recruiting Manager,Remote,18-08-2018,NULL,Lima,Ohio,32
+00-7043366,Mellie,Hariot,25-11-1983,Female,White,Engineering,Programmer III,Headquarters,06-02-2013,NULL,Cleveland,Ohio,39
+00-7080550,Stefan,Orht,01-03-1988,Male,Two or More Races,Business Development,Research Assistant II,Headquarters,04-04-2018,NULL,Cleveland,Ohio,35
+00-7080839,Bertie,La Batie,04-12-1991,Male,White,Services,Service Manager,Headquarters,12-06-2016,NULL,Cleveland,Ohio,31
+00-7102476,Cammy,Bleakman,12-08-1983,Male,White,Accounting,Staff Accountant I,Headquarters,06-05-2003,NULL,Cleveland,Ohio,39
+00-7374971,Theodor,Perot,11-09-1989,Male,Asian,Engineering,Computer Systems Analyst II,Headquarters,13-06-2009,NULL,Cleveland,Ohio,33
+00-7494159,Lu,Larive,13-08-1999,Female,White,Human Resources,Recruiter,Headquarters,31-05-2004,03-12-2010,Cleveland,Ohio,23
+00-7507889,Marietta,Marieton,30-03-1995,Male,Asian,Human Resources,Human Resources Analyst II,Headquarters,31-07-2008,NULL,Cleveland,Ohio,28
+00-7598768,Monte,How to preserve,20-10-1972,Female,American Indian or Alaska Native,Engineering,Computer Systems Analyst II,Headquarters,16-10-2016,NULL,Cleveland,Ohio,50
+00-7685590,Emanuele,Scotts,19-10-1986,Non-Conforming,Asian,Engineering,Developer II,Headquarters,26-08-2019,NULL,Cleveland,Ohio,36
+00-7693501,Kiley,Ricci,15-03-1972,Female,Two or More Races,Training,Trainer II,Headquarters,03-08-2003,NULL,Cleveland,Ohio,51
+00-7726076,Pavel,Corsor,14-02-1976,Female,White,Services,Service Tech II,Headquarters,02-02-2017,NULL,Cleveland,Ohio,47
+00-7766529,Nikaniki,Nurdin,28-06-1995,Male,Native Hawaiian or Other Pacific Islander,Accounting,Senior Cost Accountant,Remote,29-06-2019,NULL,Toledo,Ohio,28
+00-7800396,Siward,Phelipeaux,29-03-1981,Male,Two or More Races,Business Development,Research Assistant II,Remote,09-02-2003,11-01-2016,South Bend,Indiana,42
+00-7802037,Kaylee,Lambdin,01-11-1965,Female,Black or African American,Engineering,Research Assistant IV,Headquarters,09-03-2003,NULL,Cleveland,Ohio,57
+00-7925080,Chrisy,Risen,23-07-1985,Female,White,Engineering,Developer IV,Headquarters,03-02-2011,05-06-2018,Cleveland,Ohio,38
+00-8010185,Tab,Lissemore,25-11-2000,Female,Two or More Races,Business Development,Research Assistant II,Headquarters,03-12-2005,21-02-2012,Cleveland,Ohio,22
+00-8113601,Rem,Hassey,23-05-1995,Male,White,Accounting,Budget/Accounting Analyst II,Headquarters,29-05-2008,NULL,Cleveland,Ohio,28
+00-8203294,Brianna,Dudin,15-02-1988,Female,Asian,Engineering,Business Systems Development Analyst,Headquarters,18-12-2017,NULL,Cleveland,Ohio,35
+00-8230593,Sheppard,Klosges,25-10-1992,Male,Two or More Races,Product Management,Business Analyst,Headquarters,22-08-2010,30-12-2017,Cleveland,Ohio,30
+00-8250034,Karlen,Duckworth,03-11-1981,Male,Asian,Human Resources,Human Resources Analyst,Headquarters,19-05-2010,17-01-2023,Cleveland,Ohio,41
+00-8270076,Raphaela,Clowney,02-11-1971,Male,White,Engineering,Computer Systems Analyst I,Remote,06-03-2010,03-08-2030,Warren,Ohio,51
+00-8302867,Idalia,Sherborne,21-04-1968,Female,White,Services,Service Tech II,Headquarters,07-07-2016,12-03-2028,Cleveland,Ohio,55
+00-8320940,Terence,MacConnechie,26-10-1965,Male,American Indian or Alaska Native,Engineering,Software Engineer I,Headquarters,11-08-2004,NULL,Cleveland,Ohio,57
+00-8429312,Shane,Ousbie,12-12-1966,Male,Asian,Training,Trainer III,Headquarters,04-07-2005,NULL,Cleveland,Ohio,56
+00-8477498,Cammi,Yakebovitch,15-11-1965,Male,White,Research and Development,Quality Control Specialist,Headquarters,04-01-2004,NULL,Cleveland,Ohio,57
+00-8477624,Tomkin,Di Ruggiero,24-10-1993,Male,Black or African American,Sales,Customer Success Manager,Headquarters,18-02-2010,NULL,Cleveland,Ohio,29
+00-8527252,Leanor,Gemnett,31-07-1974,Male,Hispanic or Latino,Sales,Account Executive,Headquarters,20-07-2013,NULL,Cleveland,Ohio,48
+00-8536569,Sterling,Prue,28-03-1966,Female,Black or African American,Human Resources,Senior Recruiter,Headquarters,22-03-2004,23-03-2005,Cleveland,Ohio,57
+00-8541630,Loydie,Platts,20-07-1970,Male,White,Human Resources,Human Resources Analyst,Remote,07-06-2012,NULL,Pittsburgh,Pennsylvania,53
+00-8542295,Darius,Birchenough,12-09-1968,Male,Native Hawaiian or Other Pacific Islander,Research and Development,Operator,Headquarters,16-02-2018,NULL,Cleveland,Ohio,54
+00-8571626,Jenn,Whitecross,31-08-1972,Male,White,Training,Content Developer II,Headquarters,11-01-2010,NULL,Cleveland,Ohio,50
+00-8586665,Glenna,Owbrick,01-01-1993,Male,Two or More Races,Accounting,Staff Accountant III,Headquarters,07-07-2011,NULL,Cleveland,Ohio,30
+00-8679134,Lindy,Colliver,20-04-1992,Female,Two or More Races,Business Development,Business Analyst,Headquarters,28-01-2003,NULL,Cleveland,Ohio,31
+00-8679430,Lorianna,Mitten,09-10-1971,Female,White,Accounting,Accounting Assistant I,Headquarters,10-02-2001,16-11-2018,Cleveland,Ohio,51
+00-8679766,Modesty,O'Spellissey,29-06-1982,Female,Black or African American,Services,Service Tech III,Headquarters,15-10-2009,NULL,Cleveland,Ohio,41
+00-8704487,Lorain,Kibbe,19-06-1983,Female,Two or More Races,Accounting,Accountant II,Headquarters,27-07-2015,NULL,Cleveland,Ohio,40
+00-8712138,Gabie,Lawleff,30-08-1968,Female,Hispanic or Latino,Training,Senior Trainer,Remote,10-05-2004,NULL,Dayton,Ohio,54
+00-8719634,Melanie,Rylands,12-03-1972,Male,White,Accounting,Accounting Assistant III,Headquarters,17-11-2016,20-07-2031,Cleveland,Ohio,51
+00-8734191,Timothea,Summergill,11-12-1983,Female,Hispanic or Latino,Training,Administrative Assistant II,Remote,27-08-2004,NULL,Dayton,Ohio,39
+00-8772885,Thorn,Kidston,15-10-1967,Male,Hispanic or Latino,Engineering,Developer III,Remote,22-11-2017,26-03-2022,Cincinnati,Ohio,55
+00-8823459,Irvine,Shillinglaw,15-11-1997,Male,White,Engineering,Database Administrator II,Headquarters,30-09-2001,NULL,Cleveland,Ohio,25
+00-8842682,Lissi,Copcote,21-01-1993,Female,White,Engineering,Chief Design Engineer,Remote,05-08-2016,NULL,Farmington,Michigan,30
+00-8912428,Brana,Gwin,20-05-1979,Male,American Indian or Alaska Native,Accounting,Senior Cost Accountant,Headquarters,15-07-2019,NULL,Cleveland,Ohio,44
+00-8960230,Mohandis,Piecha,04-10-1995,Female,Black or African American,Engineering,Information Systems Manager,Remote,04-05-2007,NULL,Troy,Michigan,27
+00-9028931,Caressa,Van Leeuwen,14-07-1976,Female,Asian,Engineering,Systems Administrator I,Headquarters,02-12-2018,NULL,Cleveland,Ohio,47
+00-9061522,Garrard,Oakenfull,13-06-1996,Male,Black or African American,Sales,Solutions Engineer Manager,Headquarters,01-10-2020,NULL,Cleveland,Ohio,27
+00-9089278,Chrissy,Zamudio,09-03-1987,Male,Asian,Services,Service Tech,Headquarters,22-02-2006,NULL,Cleveland,Ohio,36
+00-9125378,Rosie,Denyakin,31-12-1979,Female,Hispanic or Latino,Engineering,Software Test Engineer III,Headquarters,30-06-2020,NULL,Cleveland,Ohio,43
+00-9129949,Margery,Darbyshire,07-06-1989,Non-Conforming,Hispanic or Latino,Training,Senior Trainer,Remote,20-04-2015,NULL,Cleveland,Ohio,34
+00-9148951,Sybilla,Oleszkiewicz,17-10-1970,Female,Asian,Accounting,Budget/Accounting Analyst II,Headquarters,03-09-2012,NULL,Cleveland,Ohio,52
+00-9220924,Chrysler,Brekonridge,17-12-1979,Male,Asian,Engineering,Systems Administrator I,Remote,29-09-2004,NULL,Detroit,Michigan,43
+00-9244844,Roselin,Warke,04-03-1991,Female,White,Services,Service Tech III,Headquarters,31-03-2009,NULL,Cleveland,Ohio,32
+00-9248315,Lettie,Shute,02-05-1981,Female,Hispanic or Latino,Engineering,Web Developer I,Headquarters,18-05-2012,NULL,Cleveland,Ohio,42
+00-9256735,Alphonse,Horsewood,06-03-1997,Female,White,Engineering,Data Coordiator,Headquarters,16-09-2001,NULL,Cleveland,Ohio,26
+00-9261338,Sharline,Andrzej,17-01-1974,Male,White,Accounting,Senior Cost Accountant,Headquarters,19-05-2009,NULL,Cleveland,Ohio,49
+00-9351773,Liesa,Melling,16-05-1997,Female,Asian,Auditing,Internal Auditor,Headquarters,30-10-2008,NULL,Cleveland,Ohio,26
+00-9358294,Dale,Whitland,04-12-2000,Male,White,Accounting,Staff Accountant I,Headquarters,03-08-2005,NULL,Cleveland,Ohio,22
+00-9378033,Mechelle,Waggatt,08-03-1977,Female,Hispanic or Latino,Human Resources,Human Resources Analyst,Headquarters,14-03-2016,NULL,Cleveland,Ohio,46
+00-9436631,Curr,De Biasi,25-01-2000,Female,White,Business Development,Research Assistant II,Headquarters,06-09-2008,NULL,Cleveland,Ohio,23
+00-9445290,Audra,Burdus,23-07-1978,Male,Hispanic or Latino,Services,Service Coordinator,Headquarters,21-01-2010,NULL,Cleveland,Ohio,45
+00-9477913,Merlina,Laing,02-04-1986,Female,Black or African American,Engineering,Systems Administrator II,Remote,27-01-2009,NULL,Chicago,Illinois,37
+00-9519379,Lorianna,Hayley,30-05-1993,Male,Two or More Races,Engineering,Programmer IV,Headquarters,01-10-2012,NULL,Cleveland,Ohio,30
+00-9624016,Carina,Finan,18-03-1997,Female,White,Engineering,Software Engineer I,Remote,07-10-2015,NULL,Cleveland,Ohio,26
+00-9627775,Nana,Grimme,23-02-1973,Male,Native Hawaiian or Other Pacific Islander,Product Management,Project Manager,Headquarters,02-09-2018,NULL,Cleveland,Ohio,50
+00-9700945,Zora,Peller,25-09-1980,Male,Hispanic or Latino,Accounting,Accountant III,Headquarters,02-08-2012,NULL,Cleveland,Ohio,42
+00-9731481,Kelbee,Noni,18-03-1992,Female,Black or African American,Engineering,Programmer Analyst I,Headquarters,03-06-2020,06-12-2036,Cleveland,Ohio,31
+00-9763187,Amandy,Lafferty,23-07-1984,Male,Two or More Races,Marketing,Media Manager I,Headquarters,28-01-2017,NULL,Cleveland,Ohio,39
+00-9782513,Kerianne,Bault,21-07-1992,Female,White,Business Development,Research Assistant II,Remote,08-07-2003,NULL,Anderson,Indiana,31
+00-9792606,Kalle,Minchindon,21-08-1983,Male,Asian,Accounting,Budget/Accounting Analyst II,Headquarters,30-06-2002,NULL,Cleveland,Ohio,39
+00-9837994,Adam,Tremoille,16-06-1991,Male,Asian,Human Resources,Human Resources Analyst II,Headquarters,20-08-2007,NULL,Cleveland,Ohio,32
+00-9880182,Fan,Lockley,27-07-1998,Male,Hispanic or Latino,Support,Community Outreach Specialist,Headquarters,24-06-2012,NULL,Cleveland,Ohio,25
+00-9896573,Shae,Avramow,18-09-1967,Female,Black or African American,Human Resources,Human Resources Analyst II,Headquarters,18-05-2006,NULL,Cleveland,Ohio,55
+01-0027092,Jock,Aarons,23-12-1988,Female,White,Engineering,Software Test Engineer III,Headquarters,11-08-2002,NULL,Cleveland,Ohio,34
+01-0036386,Dion,Sundin,04-09-1971,Female,Asian,Human Resources,Human Resources Analyst II,Headquarters,08-10-2005,NULL,Cleveland,Ohio,51
+01-0038079,Tierney,Oldknow,24-10-1969,Female,White,Support,Support Staff III,Headquarters,18-05-2004,NULL,Cleveland,Ohio,53
+01-0074905,Robinson,Le Moucheux,10-06-1982,Female,White,Human Resources,Human Resources Analyst II,Headquarters,28-03-2015,01-02-2019,Cleveland,Ohio,41
+01-0116125,Upton,Bowater,10-05-1972,Female,Two or More Races,Accounting,Budget/Accounting Analyst II,Remote,17-01-2013,NULL,Carol Stream,Illinois,51
+01-0169206,Whitney,Garred,10-10-1985,Female,White,Business Development,Research Assistant II,Headquarters,02-06-2017,NULL,Cleveland,Ohio,37
+01-0204393,Josephine,Marriot,30-03-2002,Female,Native Hawaiian or Other Pacific Islander,Engineering,Programmer Analyst II,Headquarters,19-03-2011,NULL,Cleveland,Ohio,21
+01-0280611,Larine,Dreakin,08-07-1983,Male,White,Engineering,Analyst Programmer,Headquarters,18-01-2003,NULL,Cleveland,Ohio,40
+01-0348994,Wainwright,Osban,14-05-1987,Male,Native Hawaiian or Other Pacific Islander,Sales,Solutions Engineer Manager,Remote,14-11-2001,NULL,Fort Wayne,Indiana,36
+01-0364885,Orella,Brim,21-04-2000,Male,American Indian or Alaska Native,Human Resources,Human Resources Analyst,Remote,25-11-2019,NULL,Evansville,Indiana,23
+01-0373372,Aldus,Sturr,11-08-1976,Male,Black or African American,Services,Service Coordinator,Remote,08-03-2020,NULL,Toledo,Ohio,46
+01-0381181,Merv,Weiss,08-09-1982,Female,White,Accounting,Administrative Officer,Headquarters,29-08-2003,08-08-2019,Cleveland,Ohio,40
+01-0417194,Nissy,Reskelly,02-03-1967,Male,Hispanic or Latino,Support,Help Desk Technician,Headquarters,13-01-2017,19-11-2019,Cleveland,Ohio,56
+01-0502994,Jaynell,Hunnybun,02-05-1971,Female,White,Product Management,Quality Control Specialist,Headquarters,10-02-2004,NULL,Cleveland,Ohio,52
+01-0506260,Ives,Phette,17-11-1988,Male,Hispanic or Latino,Human Resources,Human Resources Manager,Headquarters,18-09-2015,NULL,Cleveland,Ohio,34
+01-0551724,Moina,Gabby,22-11-1993,Male,Hispanic or Latino,Support,Help Desk Technician,Headquarters,03-12-2016,NULL,Cleveland,Ohio,29
+01-0586118,Barry,Bryns,24-01-2000,Female,Asian,Engineering,Developer III,Remote,22-02-2012,NULL,South Bend,Indiana,23
+01-0600294,Susanna,Bushell,26-05-1998,Male,American Indian or Alaska Native,Product Management,Design Engineer,Headquarters,14-08-2015,12-12-2016,Cleveland,Ohio,25
+01-0641203,Forrester,Dadge,16-09-1976,Female,White,Engineering,Data Visualization Specialist,Headquarters,20-09-2013,NULL,Cleveland,Ohio,46
+01-0645501,Shanon,Fonzone,29-04-2001,Male,Hispanic or Latino,Human Resources,Recruiter,Headquarters,24-01-2005,NULL,Cleveland,Ohio,22
+01-0663336,Elisabet,Allchorne,04-09-1979,Male,Two or More Races,Sales,Solutions Engineer,Headquarters,13-04-2002,NULL,Cleveland,Ohio,43
+01-0692047,Yorgo,Pywell,05-10-1981,Male,Asian,Accounting,Staff Accountant I,Headquarters,13-09-2002,NULL,Cleveland,Ohio,41
+01-0708619,Calvin,Tudor,19-12-1985,Female,Two or More Races,Services,Service Coordinator,Headquarters,24-05-2013,NULL,Cleveland,Ohio,37
+01-0770833,Louise,Spottiswoode,22-02-1993,Male,Asian,Sales,Solutions Engineer Manager,Headquarters,14-05-2019,11-02-2028,Cleveland,Ohio,30
+01-0807331,Gene,Renals,29-03-1968,Female,Hispanic or Latino,Legal,Senior Attorney,Headquarters,30-11-2016,23-02-2031,Cleveland,Ohio,55
+01-0892737,Noni,Stuttard,26-01-1985,Male,Hispanic or Latino,Engineering,Systems Administrator IV,Headquarters,10-12-2006,NULL,Cleveland,Ohio,38
+01-0896141,Richmound,Aust,20-05-1993,Male,Two or More Races,Support,Desktop Support Technician,Remote,12-07-2011,01-06-2030,Chicago,Illinois,30
+01-0957306,Thelma,Nanson,31-08-1972,Male,Two or More Races,Services,Service Tech III,Headquarters,18-11-2012,NULL,Cleveland,Ohio,50
+01-1097895,Sayer,Balcock,08-04-1992,Female,Native Hawaiian or Other Pacific Islander,Sales,Relationshiop Manager,Headquarters,02-08-2002,NULL,Cleveland,Ohio,31
+01-1147276,Philis,Bayne,02-01-1986,Male,White,Human Resources,Human Resources Analyst,Headquarters,14-09-2014,NULL,Cleveland,Ohio,37
+01-1215079,Maribelle,Shankster,02-08-1996,Male,American Indian or Alaska Native,Human Resources,Human Resources Analyst,Remote,10-10-2012,15-01-2025,Bethlehem,Pennsylvania,26
+01-1228565,Otho,Lernihan,24-04-1968,Male,Asian,Support,Desktop Support Technician,Headquarters,06-11-2000,NULL,Cleveland,Ohio,55
+01-1253052,Dena,Kob,15-12-1985,Male,Black or African American,Accounting,Accounting Assistant I,Headquarters,09-10-2002,NULL,Cleveland,Ohio,37
+01-1268137,Loreen,Bewicke,24-01-1981,Female,Two or More Races,Engineering,Data Visualization Specialist,Headquarters,03-10-2009,19-07-2017,Cleveland,Ohio,42
+01-1280118,Tannie,Dillamore,03-10-2000,Female,White,Sales,Solutions Engineer Manager,Headquarters,27-08-2002,NULL,Cleveland,Ohio,22
+01-1409605,Cayla,Hubbis,25-05-1975,Female,Two or More Races,Product Management,Project Manager,Remote,19-11-2015,NULL,Lexington,Kentucky,48
+01-1414652,Cleavland,Dodridge,11-08-1974,Male,Two or More Races,Engineering,Senior Developer,Headquarters,08-02-2011,NULL,Cleveland,Ohio,48
+01-1504920,Leyla,Stiell,29-01-1995,Female,Hispanic or Latino,Training,Support Staff,Headquarters,10-01-2010,NULL,Cleveland,Ohio,28
+01-1531866,Brier,Mansel,04-11-1991,Male,White,Business Development,Business Development Manager,Headquarters,02-01-2004,NULL,Cleveland,Ohio,31
+01-1552788,Manon,Sive,12-11-1989,Male,Hispanic or Latino,Engineering,Developer I,Headquarters,15-04-2018,NULL,Cleveland,Ohio,33
+01-1627226,Clementine,Chatain,13-07-1970,Male,Asian,Research and Development,Research Associate,Headquarters,31-03-2018,NULL,Cleveland,Ohio,53
+01-1660610,Xenos,Vallerine,03-09-1972,Female,White,Training,Trainer II,Remote,03-06-2006,15-07-2007,Cleveland,Ohio,50
+01-1732321,Roddy,Dimanche,28-09-1971,Female,Black or African American,Engineering,Analyst Programmer,Headquarters,29-07-2018,NULL,Cleveland,Ohio,51
+01-1734242,Munmro,Keirl,21-07-1994,Female,Asian,Services,Service Tech II,Headquarters,13-06-2016,28-05-2036,Cleveland,Ohio,29
+01-1808657,Wallie,Kemet,27-02-1977,Female,Asian,Accounting,Staff Accountant I,Headquarters,12-01-2009,NULL,Cleveland,Ohio,46
+01-1814975,Nell,Mepsted,07-06-1984,Male,Black or African American,Services,Service Coordinator,Remote,27-09-2008,NULL,Lexington,Kentucky,39
+01-1836101,Montague,Snooks,16-08-2001,Male,American Indian or Alaska Native,Services,Service Tech,Headquarters,20-08-2003,NULL,Cleveland,Ohio,21
+01-1941908,Sue,Zelake,30-12-1988,Female,Black or African American,Human Resources,Human Resources Analyst,Remote,02-05-2018,NULL,Toledo,Ohio,34
+01-1960711,Allegra,Drury,02-01-1990,Male,Two or More Races,Human Resources,Senior Recruiter,Remote,29-01-2005,NULL,Cincinnati,Ohio,33
+01-1978400,Janie,Schiefersten,19-08-1992,Female,Native Hawaiian or Other Pacific Islander,Human Resources,HR Manager,Headquarters,18-02-2006,NULL,Cleveland,Ohio,30
+01-2020198,Piper,Murcutt,28-02-1997,Male,Black or African American,Services,Service Tech III,Headquarters,19-04-2013,NULL,Cleveland,Ohio,26
+01-2088180,Noemi,Veljes,15-01-1971,Female,White,Sales,Pre-Sales Consultant,Headquarters,19-04-2018,NULL,Cleveland,Ohio,52
+01-2097413,Hugues,Balog,19-12-1975,Male,White,Engineering,Data Visualization Specialist,Headquarters,07-07-2004,08-04-2010,Cleveland,Ohio,47
+01-2132667,Ginnifer,Worssam,23-08-1990,Male,Black or African American,Engineering,Business Analyst,Headquarters,08-04-2010,NULL,Cleveland,Ohio,32
+01-2171203,Darelle,Beall,28-02-1987,Female,White,Engineering,Software Consultant,Headquarters,06-12-2005,NULL,Cleveland,Ohio,36
+01-2267883,Gamaliel,Cowsby,03-05-1975,Male,Asian,Engineering,Programmer Analyst I,Remote,31-07-2005,NULL,Detroit,Michigan,48
+01-2313150,Bee,Daymond,21-03-1994,Male,Two or More Races,Accounting,Cost Accountant,Headquarters,10-11-2006,NULL,Cleveland,Ohio,29
+01-2328373,Ced,Grutchfield,10-05-1980,Male,Black or African American,Business Development,Research Assistant I,Remote,01-03-2019,NULL,Chicago,Illinois,43
+01-2355796,Aila,Seares,15-10-1974,Female,Black or African American,Human Resources,Senior Recruiter,Remote,18-01-2020,NULL,Kalamazoo,Michigan,48
+01-2363709,Yorker,Tritton,19-05-1999,Male,American Indian or Alaska Native,Engineering,Systems Administrator I,Headquarters,10-11-2000,NULL,Cleveland,Ohio,24
+01-2387075,Rubi,Simmins,02-04-1974,Female,White,Services,Service Tech II,Headquarters,28-09-2019,NULL,Cleveland,Ohio,49
+01-2451586,Timi,Cunnah,08-11-1994,Female,Two or More Races,Business Development,Research Assistant II,Remote,19-04-2003,NULL,Milwaukee,Wisconsin,28
+01-2465977,Hube,Simmig,20-08-1981,Male,White,Product Management,Assistant Manager,Headquarters,16-02-2009,NULL,Cleveland,Ohio,41
+01-2470877,Nixie,Very,19-11-1970,Male,Hispanic or Latino,Training,Assistant Trainer,Remote,11-04-2015,09-05-2029,Flint,Michigan,52
+01-2488429,Shelagh,Gilfether,15-09-1996,Male,White,Marketing,Editor,Remote,25-01-2001,NULL,Decatur,Illinois,26
+01-2541527,Augustina,Bradnam,10-01-1984,Male,American Indian or Alaska Native,Legal,Research Assistant,Headquarters,24-10-2008,NULL,Cleveland,Ohio,39
+01-2612988,Avigdor,Date,30-04-1999,Female,White,Human Resources,Recruiter,Headquarters,05-01-2007,NULL,Cleveland,Ohio,24
+01-2630437,Shellysheldon,Wilks,02-10-2001,Female,Black or African American,Business Development,Research Assistant II,Headquarters,17-06-2018,NULL,Cleveland,Ohio,21
+01-2645802,Samaria,Chalcot,24-09-1969,Female,Asian,Human Resources,Human Resources Analyst II,Headquarters,31-07-2011,NULL,Cleveland,Ohio,53
+01-2689848,Editha,Shimmings,17-03-1968,Male,Native Hawaiian or Other Pacific Islander,Engineering,Data Visualization Specialist,Headquarters,13-10-2008,NULL,Cleveland,Ohio,55
+01-2788678,Kaylil,Horning,28-05-1986,Female,Hispanic or Latino,Marketing,Senior Editor,Headquarters,27-09-2002,NULL,Cleveland,Ohio,37
+01-2879659,Forrester,Dowden,14-03-1967,Male,White,Engineering,Quality Control Specialist,Headquarters,16-10-2004,NULL,Cleveland,Ohio,56
+01-2937041,Hussein,Barff,25-09-1997,Male,White,Accounting,Cost Accountant,Headquarters,16-09-2010,NULL,Cleveland,Ohio,25
+01-2960698,Anallise,Ingraham,12-07-1967,Male,Hispanic or Latino,Engineering,Data Visualization Specialist,Headquarters,14-02-2010,NULL,Cleveland,Ohio,56
+01-3002835,Imojean,Cleaton,20-03-1970,Male,Hispanic or Latino,Business Development,Business Analyst,Headquarters,03-08-2002,NULL,Cleveland,Ohio,53
+01-3016077,Manny,Cleft,01-11-1965,Male,Two or More Races,Engineering,Software Engineer IV,Remote,30-09-2003,NULL,Pittsburgh,Pennsylvania,57
+01-3018825,Franzen,Londors,03-12-1967,Female,Asian,Sales,Relationshiop Manager,Headquarters,15-12-2003,03-12-2010,Cleveland,Ohio,55
+01-3159066,Delaney,Padell,04-12-1972,Male,Asian,Accounting,Budget/Accounting Analyst III,Headquarters,17-08-2015,NULL,Cleveland,Ohio,50
+01-3233687,Quinlan,Rayson,11-09-1966,Male,Two or More Races,Human Resources,Human Resources Analyst II,Headquarters,08-11-2013,NULL,Cleveland,Ohio,56
+01-3364844,Lyda,Greaterex,17-02-1980,Male,White,Human Resources,HR Manager,Remote,13-02-2001,NULL,Indianapolis,Indiana,43
+01-3541845,Gusella,Tavner,14-04-1994,Male,Native Hawaiian or Other Pacific Islander,Research and Development,Structural Engineer,Remote,13-03-2012,NULL,Peoria,Illinois,29
+01-3665845,Abagael,Wildin,27-12-1971,Female,Black or African American,Sales,Account Manager,Remote,17-08-2003,NULL,Milwaukee,Wisconsin,51
+01-3741902,Riki,Purrier,23-11-1979,Male,Black or African American,Business Development,Research Assistant II,Headquarters,19-07-2019,NULL,Cleveland,Ohio,43
+01-3752254,Bryn,Lomb,14-11-1995,Male,Hispanic or Latino,Accounting,Accounting Assistant IV,Headquarters,29-03-2004,23-04-2025,Cleveland,Ohio,27
+01-3753257,Kizzee,Horick,04-01-1995,Female,Asian,Services,Service Manager,Remote,31-05-2016,NULL,Evansville,Indiana,28
+01-3784389,Fenelia,Ducham,31-03-1966,Non-Conforming,Two or More Races,Services,Service Tech II,Remote,31-08-2016,NULL,Philadelphia,Pennsylvania,57
+01-3900995,Gerome,Lambird,02-06-1992,Male,White,Training,Trainer II,Headquarters,28-06-2019,NULL,Cleveland,Ohio,31
+01-3904693,Vanda,Wildber,26-01-1988,Female,Asian,Engineering,Data Coordiator,Headquarters,17-01-2014,NULL,Cleveland,Ohio,35
+01-3920526,Jeffry,Morando,02-03-1998,Female,Asian,Accounting,Budget/Accounting Analyst I,Remote,29-05-2012,NULL,Milwaukee,Wisconsin,25
+01-3950822,Jaquenetta,Otham,15-02-2001,Male,Two or More Races,Accounting,Budget/Accounting Analyst IV,Headquarters,04-03-2003,12-05-2012,Cleveland,Ohio,22
+01-3970659,Ericka,Donwell,17-12-1981,Female,Hispanic or Latino,Engineering,Web Developer IV,Headquarters,17-01-2004,NULL,Cleveland,Ohio,41
+01-3999156,Sam,Boyett,12-04-1990,Male,White,Services,Service Tech III,Headquarters,26-05-2005,12-02-2017,Cleveland,Ohio,33
+01-4138486,Lynea,Handman,17-08-1980,Male,White,Engineering,Software Engineer I,Headquarters,03-06-2008,NULL,Cleveland,Ohio,42
+01-4149921,Katya,Rannald,01-03-2000,Male,Two or More Races,Business Development,Research Assistant II,Remote,19-05-2003,NULL,Reading,Pennsylvania,23
+01-4227090,Ethelind,Bransdon,28-02-1988,Female,Two or More Races,Accounting,Staff Accountant II,Headquarters,04-07-2002,NULL,Cleveland,Ohio,35
+01-4228010,Gertruda,Prudham,20-06-1967,Male,Two or More Races,Business Development,Research Assistant II,Headquarters,17-06-2020,NULL,Cleveland,Ohio,56
+01-4236217,Melissa,Chazotte,22-12-1998,Male,White,Human Resources,Human Resources Analyst II,Headquarters,01-04-2010,12-01-2015,Cleveland,Ohio,24
+01-4276406,Nari,McGarrell,18-02-1980,Female,White,Engineering,Developer IV,Headquarters,12-02-2002,NULL,Cleveland,Ohio,43
+01-4278390,Godfrey,Mourge,22-09-1972,Female,Hispanic or Latino,Engineering,Software Engineer I,Headquarters,07-08-2014,NULL,Cleveland,Ohio,50
+01-4278780,Ysabel,Evetts,03-02-1975,Male,White,Accounting,Tax Accountant,Remote,09-06-2015,NULL,Philadelphia,Pennsylvania,48
+01-4279334,Marya,Gabbotts,23-02-1986,Male,Asian,Research and Development,Research Associate,Headquarters,02-03-2001,24-07-2019,Cleveland,Ohio,37
+01-4289996,Luca,Caslett,07-08-1971,Female,Two or More Races,Services,Service Manager,Headquarters,03-01-2010,NULL,Cleveland,Ohio,51
+01-4335725,Godfrey,Rathe,21-06-1966,Male,Black or African American,Engineering,Data Coordiator,Remote,25-02-2004,NULL,Cleveland,Ohio,57
+01-4338312,Ricki,Lowde,16-11-1981,Female,Asian,Business Development,Business Analyst,Headquarters,21-11-2000,NULL,Cleveland,Ohio,41
+01-4377551,Valaree,Jones,22-10-1979,Female,Asian,Services,Service Tech II,Headquarters,05-03-2007,NULL,Cleveland,Ohio,43
+01-4425713,Jocelyn,Gothrup,04-10-1989,Male,Hispanic or Latino,Human Resources,Human Resources Manager,Headquarters,26-06-2005,NULL,Cleveland,Ohio,33
+01-4458473,Mabelle,Lamping,18-08-2000,Male,Hispanic or Latino,Accounting,Budget/Accounting Analyst I,Headquarters,19-08-2014,NULL,Cleveland,Ohio,22
+01-4497883,Brew,Borrott,07-02-1992,Male,Two or More Races,Product Management,Design Engineer,Remote,05-06-2008,NULL,Erie,Pennsylvania,31
+01-4570713,Dalila,Stobbs,08-11-1977,Male,White,Engineering,Data Coordiator,Headquarters,29-08-2018,NULL,Cleveland,Ohio,45
+01-4613458,Harmonia,McGoon,28-12-1992,Male,Black or African American,Engineering,Software Engineer I,Headquarters,06-10-2009,05-04-2016,Cleveland,Ohio,30
+01-4620408,Linzy,Geeves,21-09-1981,Male,Black or African American,Engineering,Senior Developer,Headquarters,24-07-2008,21-01-2020,Cleveland,Ohio,41
+01-4624711,Nanon,Boycott,10-09-1988,Female,Asian,Accounting,Cost Accountant,Headquarters,25-07-2007,NULL,Cleveland,Ohio,34
+01-4659570,Ernest,Hitzschke,20-10-1969,Male,American Indian or Alaska Native,Engineering,Software Consultant,Headquarters,14-12-2008,NULL,Cleveland,Ohio,53
+01-4684900,Lalo,O'Hannay,08-07-1996,Male,Two or More Races,Engineering,Computer Systems Analyst III,Headquarters,16-09-2008,NULL,Cleveland,Ohio,27
+01-4807422,Brina,Gabbetis,29-11-1997,Female,Two or More Races,Business Development,Research Assistant I,Headquarters,07-05-2005,10-12-2017,Cleveland,Ohio,25
+01-4810979,Rosamond,Casetti,18-09-1980,Female,White,Training,Training Manager,Remote,09-10-2001,NULL,Lansing,Michigan,42
+01-4857076,Goddart,Bramford,26-05-1979,Male,Two or More Races,Accounting,Tax Accountant,Headquarters,12-04-2019,NULL,Cleveland,Ohio,44
+01-4886962,Phaedra,Kolczynski,02-02-1991,Female,Hispanic or Latino,Training,Content Developer II,Headquarters,02-11-2012,NULL,Cleveland,Ohio,32
+01-4913209,Alexina,Cumesky,03-12-1987,Male,Hispanic or Latino,Engineering,Analog Circuit Design manager,Headquarters,06-07-2014,21-10-2028,Cleveland,Ohio,35
+01-4928191,Duane,Hegley,22-03-1973,Male,Hispanic or Latino,Training,Trainer I,Headquarters,03-04-2018,NULL,Cleveland,Ohio,50
+01-4984757,Gwynne,Elesander,20-12-1978,Male,Two or More Races,Engineering,Analyst Programmer,Headquarters,09-07-2002,28-11-2007,Cleveland,Ohio,44
+01-5000513,Cherye,Braycotton,03-11-2001,Female,American Indian or Alaska Native,Engineering,Data Visualization Specialist,Headquarters,08-08-2012,NULL,Cleveland,Ohio,21
+01-5051565,Merrielle,Scottesmoor,20-04-1987,Male,White,Engineering,Software Engineer IV,Headquarters,07-08-2009,17-03-2030,Cleveland,Ohio,36
+01-5086800,Abbey,Ethridge,26-07-1990,Female,Asian,Sales,Solutions Engineer Manager,Headquarters,10-09-2016,NULL,Cleveland,Ohio,33
+01-5132160,Ruprecht,Leander,11-07-1967,Female,Asian,Business Development,Business Analyst,Headquarters,20-03-2007,NULL,Cleveland,Ohio,56
+01-5140944,Clarence,Izakovitz,10-01-2000,Male,Native Hawaiian or Other Pacific Islander,Business Development,Research Assistant II,Headquarters,05-04-2012,NULL,Cleveland,Ohio,23
+01-5188629,Shirline,Sprake,15-02-1969,Male,American Indian or Alaska Native,Product Management,Project Manager,Headquarters,02-03-2016,08-04-2023,Cleveland,Ohio,54
+01-5194896,Gay,Maasz,29-09-1969,Female,White,Engineering,Web Developer III,Headquarters,25-08-2010,21-09-2026,Cleveland,Ohio,53
+01-5197804,Kellen,Huffy,11-09-1991,Female,White,Services,Service Tech,Remote,21-01-2015,NULL,Philadelphia,Pennsylvania,31
+01-5212721,Winnifred,Bartel,15-08-1973,Male,White,Engineering,Software Engineer III,Remote,11-08-2001,NULL,Lima,Ohio,49
+01-5310504,Kile,Zannolli,07-06-1982,Female,White,Human Resources,HR Manager,Headquarters,02-04-2013,17-07-2028,Cleveland,Ohio,41
+01-5332751,Wallie,Trumper,17-01-1970,Female,Asian,Accounting,Accountant I,Remote,22-08-2011,NULL,Canton,Ohio,53
+01-5377792,Udall,Beastall,10-03-1972,Female,White,Engineering,Computer Systems Analyst IV,Headquarters,27-09-2001,NULL,Cleveland,Ohio,51
+01-5414755,Aksel,Sainte Paul,03-05-1982,Female,Black or African American,Accounting,Budget/Accounting Analyst IV,Headquarters,02-06-2013,NULL,Cleveland,Ohio,41
+01-5439970,Ian,Hens,22-07-1988,Female,Hispanic or Latino,Engineering,Business Systems Development Analyst,Headquarters,04-11-2002,NULL,Cleveland,Ohio,35
+01-5511863,Ogden,McGeraghty,15-06-1975,Female,Asian,Product Management,Project Manager,Headquarters,11-02-2002,NULL,Cleveland,Ohio,48
+01-5543216,Meghann,McNaughton,18-07-1976,Female,Two or More Races,Engineering,Senior Developer,Headquarters,01-03-2002,NULL,Cleveland,Ohio,47
+01-5560541,Neil,Spurier,09-10-1982,Male,Hispanic or Latino,Support,Help Desk Technician,Headquarters,19-05-2013,15-02-2014,Cleveland,Ohio,40
+01-5595346,Seline,Rzehorz,05-07-1976,Female,Black or African American,Training,Support Staff,Headquarters,06-08-2008,NULL,Cleveland,Ohio,47
+01-5629059,Aggy,Heinzler,10-04-1993,Female,White,Engineering,Data Coordiator,Headquarters,26-02-2019,NULL,Cleveland,Ohio,30
+01-5815328,Jobina,Skillings,31-05-1997,Male,Two or More Races,Engineering,Software Engineer I,Headquarters,16-06-2007,NULL,Cleveland,Ohio,26
+01-5869912,Salvatore,Woodvine,13-12-1985,Female,Asian,Human Resources,Human Resources Analyst II,Headquarters,16-08-2007,NULL,Cleveland,Ohio,37
+01-5888187,Brooke,Leijs,01-04-1995,Male,Asian,Marketing,VP Marketing,Headquarters,08-06-2003,NULL,Cleveland,Ohio,28
+01-5891249,Jordan,Crust,26-07-1980,Female,White,Services,Service Coordinator,Remote,15-08-2015,23-02-2030,Dayton,Ohio,43
+01-5926286,Vivi,Conerding,25-02-1974,Male,Asian,Business Development,Business Analyst,Remote,07-11-2004,10-12-2017,Flint,Michigan,49
+01-5930949,Mathias,Jindracek,03-05-1978,Female,White,Services,Service Tech III,Headquarters,22-08-2004,NULL,Cleveland,Ohio,45
+01-5945630,Gisella,Iltchev,18-02-1999,Female,Asian,Accounting,Tax Accountant,Headquarters,06-10-2014,05-08-2024,Cleveland,Ohio,24
+01-6093681,Kattie,Fransinelli,08-12-1971,Female,White,Training,Trainer III,Headquarters,02-02-2002,NULL,Cleveland,Ohio,51
+01-6119292,Bran,Goater,29-07-1969,Female,Asian,Engineering,Software Test Engineer IV,Remote,18-07-2009,NULL,Louisville,Kentucky,53
+01-6155654,Milty,Halmkin,30-10-1971,Female,Native Hawaiian or Other Pacific Islander,Engineering,Business Systems Development Analyst,Headquarters,25-06-2001,NULL,Cleveland,Ohio,51
+01-6192162,Timoteo,Clavey,14-08-1987,Male,White,Engineering,Software Test Engineer I,Headquarters,08-01-2018,NULL,Cleveland,Ohio,35
+01-6295694,Quintina,Fatkin,19-04-1989,Male,Black or African American,Sales,Account Manager,Headquarters,28-02-2014,NULL,Cleveland,Ohio,34
+01-6312121,Clayborne,Tordiffe,23-12-1993,Male,Native Hawaiian or Other Pacific Islander,Business Development,Research Assistant I,Headquarters,16-07-2002,NULL,Cleveland,Ohio,29
+01-6322845,Carlotta,Fogel,24-12-1983,Female,White,Product Management,Assistant Manager,Remote,31-01-2013,NULL,Dayton,Ohio,39
+01-6437411,Jo ann,Deegin,11-02-1978,Male,White,Engineering,Data Visualization Specialist,Headquarters,25-12-2014,NULL,Cleveland,Ohio,45
+01-6495249,Colby,Tylor,19-04-1982,Male,Two or More Races,Accounting,Senior Cost Accountant,Headquarters,16-04-2011,NULL,Cleveland,Ohio,41
+01-6555347,Brittney,Ivison,15-12-1975,Male,Asian,Services,Service Tech II,Headquarters,03-02-2001,NULL,Cleveland,Ohio,47
+01-6675581,Adolph,Gannaway,27-12-1968,Male,American Indian or Alaska Native,Human Resources,Human Resources Analyst,Headquarters,22-09-2018,22-09-2036,Cleveland,Ohio,54
+01-6693422,Kenyon,Bramford,14-01-1970,Male,Two or More Races,Engineering,Analyst Programmer,Headquarters,28-05-2006,10-12-2018,Cleveland,Ohio,53
+01-6696887,Maximilien,Hardstaff,27-12-1986,Female,White,Engineering,Analyst Programmer,Headquarters,28-06-2011,NULL,Cleveland,Ohio,36
+01-6720875,Madelina,McMurtyr,28-09-1992,Female,Asian,Engineering,Software Engineer II,Headquarters,14-09-2013,NULL,Cleveland,Ohio,30
+01-6820916,Aluino,Hay,15-12-1971,Female,White,Training,Trainer II,Headquarters,17-04-2002,NULL,Cleveland,Ohio,51
+01-6845961,Darrick,Kimbling,04-09-1967,Female,Native Hawaiian or Other Pacific Islander,Engineering,Software Engineer III,Headquarters,20-03-2002,25-06-2012,Cleveland,Ohio,55
+01-6945383,Margarete,Arnull,26-07-1990,Male,Hispanic or Latino,Research and Development,Structural Engineer,Headquarters,02-11-2003,02-08-2008,Cleveland,Ohio,33
+01-6978020,Caitrin,Renzo,14-05-1992,Female,Two or More Races,Accounting,Budget/Accounting Analyst I,Headquarters,06-01-2003,NULL,Cleveland,Ohio,31
+01-7042966,Cassie,Stawell,01-04-1993,Female,Two or More Races,Sales,Pre-Sales Consultant,Headquarters,25-11-2011,NULL,Cleveland,Ohio,30
+01-7115203,Gillian,Dorrell,19-05-1999,Male,White,Engineering,Business Systems Development Analyst,Remote,05-07-2009,NULL,Dayton,Ohio,24
+01-7152335,Harv,Fouracres,20-01-1968,Male,Black or African American,Support,Help Desk Technician,Headquarters,14-07-2016,NULL,Cleveland,Ohio,55
+01-7178787,Dyana,Ferrarese,20-09-1969,Male,White,Training,Junior Trainer,Headquarters,23-05-2006,NULL,Cleveland,Ohio,53
+01-7201642,Harley,St. Quintin,23-11-1975,Female,White,Engineering,Programmer Analyst III,Headquarters,01-06-2019,22-03-2026,Cleveland,Ohio,47
+01-7205028,Lexie,Powers,17-02-1971,Male,Two or More Races,Services,Service Tech III,Headquarters,13-09-2016,NULL,Cleveland,Ohio,52
+01-7283521,Lacee,Gotter,22-11-1997,Male,Two or More Races,Accounting,Staff Accountant IV,Headquarters,18-08-2010,NULL,Cleveland,Ohio,25
+01-7306927,Alic,Wilcinskis,29-12-1990,Male,White,Human Resources,HR Manager,Headquarters,19-04-2004,NULL,Cleveland,Ohio,32
+01-7331210,Lisle,Laborde,29-03-1981,Male,Asian,Accounting,Accountant II,Headquarters,24-10-2014,NULL,Cleveland,Ohio,42
+01-7368774,Bil,Lancastle,30-09-1973,Male,Two or More Races,Training,Content Developer III,Headquarters,28-01-2014,NULL,Cleveland,Ohio,49
+01-7405105,Terrill,Denerley,23-12-1988,Female,Two or More Races,Services,Service Manager,Headquarters,02-11-2011,19-10-2015,Cleveland,Ohio,34
+01-7446563,Iolande,Patchett,07-11-1965,Male,White,Engineering,Data Visualization Specialist,Remote,24-03-2005,13-12-2006,Springfield,Ohio,57
+01-7619154,Saul,Mayman,28-06-1972,Female,Asian,Engineering,Business Systems Development Analyst,Headquarters,09-04-2003,NULL,Cleveland,Ohio,51
+01-7662642,Nolly,Bayston,23-01-1994,Female,Black or African American,Services,Service Tech,Headquarters,06-08-2004,NULL,Cleveland,Ohio,29
+01-7681796,Michael,Girke,28-08-1967,Male,American Indian or Alaska Native,Accounting,Accounting Assistant III,Remote,28-08-2012,NULL,Louisville,Kentucky,55
+01-7713037,Rory,Wentworth,23-12-1979,Male,Native Hawaiian or Other Pacific Islander,Sales,Customer Success Manager,Remote,19-03-2004,NULL,Chicago,Illinois,43
+01-7782368,Carlita,Enevold,01-07-2000,Male,White,Accounting,Accountant IV,Headquarters,26-04-2016,NULL,Cleveland,Ohio,23
+01-7851887,Sorcha,Agget,22-06-1967,Female,Native Hawaiian or Other Pacific Islander,Accounting,Staff Accountant I,Headquarters,13-03-2004,28-09-2023,Cleveland,Ohio,56
+01-7876427,Ara,Klimushev,29-04-1983,Male,American Indian or Alaska Native,Research and Development,Research Associate,Headquarters,03-12-2005,11-05-2016,Cleveland,Ohio,40
+01-7876988,Eilis,Cinderey,08-11-1980,Male,White,Accounting,Tax Accountant,Headquarters,25-11-2010,NULL,Cleveland,Ohio,42
+01-7897570,Winnie,Sheldon,10-07-1996,Male,Two or More Races,Engineering,Web Developer II,Remote,04-12-2006,NULL,Cleveland,Ohio,27
+01-8019865,Marline,Bailiss,18-04-2002,Male,White,Engineering,Programmer III,Headquarters,10-10-2002,NULL,Cleveland,Ohio,21
+01-8128449,Maryrose,Sinisbury,29-07-1968,Male,Asian,Engineering,Web Developer I,Headquarters,01-02-2013,NULL,Cleveland,Ohio,54
+01-8146931,Walker,Antognazzi,05-11-1992,Male,Hispanic or Latino,Engineering,Developer III,Headquarters,01-09-2010,NULL,Cleveland,Ohio,30
+01-8334686,Ermentrude,Grogan,12-04-1988,Non-Conforming,Black or African American,Human Resources,Human Resources Assistant IV,Headquarters,31-10-2005,NULL,Cleveland,Ohio,35
+01-8372820,Micky,Chaffey,05-11-1979,Male,White,Engineering,Developer II,Headquarters,02-08-2018,NULL,Cleveland,Ohio,43
+01-8402838,Abbott,Springham,16-03-1992,Male,Black or African American,Accounting,Staff Accountant I,Remote,27-06-2016,NULL,York,Pennsylvania,31
+01-8524782,Benedick,Wann,22-04-1983,Male,Black or African American,Engineering,Business Systems Development Analyst,Headquarters,15-05-2018,NULL,Cleveland,Ohio,40
+01-8526961,Kiley,McCarry,31-07-1982,Male,White,Training,Training Manager,Headquarters,31-05-2009,NULL,Cleveland,Ohio,40
+01-8540361,Rodi,McBeath,06-01-1969,Male,White,Services,Service Tech III,Headquarters,19-02-2011,01-02-2028,Cleveland,Ohio,54
+01-8603287,Trenton,Chatband,18-03-1976,Female,White,Engineering,Programmer II,Headquarters,21-09-2008,NULL,Cleveland,Ohio,47
+01-8615912,Lovell,Nolton,03-04-1977,Male,Asian,Accounting,Accounting Assistant I,Remote,14-11-2000,NULL,Madison,Wisconsin,46
+01-8623808,Caryl,Dodshun,03-12-1974,Female,Two or More Races,Training,Trainer II,Remote,12-10-2011,NULL,Dayton,Ohio,48
+01-8636615,Kali,Duffield,17-05-1979,Male,Black or African American,Support,Desktop Support Technician,Headquarters,04-06-2004,NULL,Cleveland,Ohio,44
+01-8651064,Crin,Sculpher,18-12-2000,Female,American Indian or Alaska Native,Legal,Paralegal,Headquarters,07-08-2019,NULL,Cleveland,Ohio,22
+01-8688584,Jesselyn,Coggin,04-03-1991,Female,White,Accounting,Budget/Accounting Analyst III,Headquarters,11-09-2004,NULL,Cleveland,Ohio,32
+01-8774464,Lydon,Vynehall,15-04-1971,Female,Two or More Races,Engineering,Programmer Analyst I,Headquarters,23-07-2004,NULL,Cleveland,Ohio,52
+01-8805399,Hunter,Learman,02-03-2001,Female,Two or More Races,Accounting,Budget/Accounting Analyst III,Headquarters,20-04-2003,NULL,Cleveland,Ohio,22
+01-8840917,Rich,Horsted,18-04-1985,Male,American Indian or Alaska Native,Engineering,Business Systems Development Analyst,Headquarters,13-05-2015,03-06-2020,Cleveland,Ohio,38
+01-8878283,D'arcy,Rushsorth,04-08-1981,Female,Native Hawaiian or Other Pacific Islander,Support,Support Staff II,Headquarters,09-05-2016,15-12-2016,Cleveland,Ohio,41
+01-9043837,Eli,Quarrell,22-06-1989,Male,Two or More Races,Engineering,Product Engineer,Remote,28-09-2010,NULL,Fort Wayne,Indiana,34
+01-9079140,Brett,Trudgian,24-09-1974,Male,Two or More Races,Engineering,Systems Administrator III,Remote,28-05-2013,NULL,Cincinnati,Ohio,48
+01-9093998,Beatrix,Youens,18-12-1997,Female,Asian,Sales,Solutions Engineer Manager,Headquarters,31-01-2003,NULL,Cleveland,Ohio,25
+01-9096171,Erwin,Licciardi,29-08-1988,Male,White,Engineering,Programmer III,Headquarters,11-11-2006,NULL,Cleveland,Ohio,34
+01-9159899,Daryle,Zanre,26-10-1978,Male,Two or More Races,Engineering,Web Developer I,Remote,02-10-2020,NULL,Chicago,Illinois,44
+01-9288581,Candi,Waples,15-12-1965,Female,White,Services,Service Coordinator,Remote,21-05-2005,NULL,South Bend,Indiana,57
+01-9295189,Dimitry,Manske,12-01-1987,Male,Black or African American,Research and Development,Senior Quality Engineer,Headquarters,06-01-2018,NULL,Cleveland,Ohio,36
+01-9307405,Tabby,MacRannell,09-05-1971,Male,American Indian or Alaska Native,Accounting,Budget/Accounting Analyst IV,Headquarters,30-08-2019,NULL,Cleveland,Ohio,52
+01-9495555,Virginie,Calverd,04-03-1969,Female,White,Human Resources,HR Manager,Headquarters,28-11-2016,12-09-2034,Cleveland,Ohio,54
+01-9513649,Sasha,Bassick,18-07-1978,Male,Black or African American,Product Management,Project Manager,Headquarters,08-05-2009,NULL,Cleveland,Ohio,45
+01-9513779,Sindee,Oakeby,25-02-1968,Female,White,Accounting,Accountant III,Headquarters,20-08-2005,NULL,Cleveland,Ohio,55
+01-9549593,Tad,Armitage,23-09-1972,Female,White,Business Development,Research Assistant II,Remote,08-07-2013,NULL,Lexington,Kentucky,50
+01-9664663,Regina,Faircliff,23-08-1975,Male,Black or African American,Services,Service Tech,Headquarters,17-08-2003,NULL,Cleveland,Ohio,47
+01-9688532,Deeanne,Laurand,03-03-1977,Male,Two or More Races,Accounting,Staff Accountant III,Headquarters,29-10-2011,07-07-2024,Cleveland,Ohio,46
+01-9742001,Pierette,Ramas,03-07-2002,Male,White,Training,Trainer II,Headquarters,04-07-2009,03-01-2016,Cleveland,Ohio,21
+01-9817509,Garret,McDougle,05-06-1998,Female,Two or More Races,Sales,Account Executive,Headquarters,01-11-2016,NULL,Cleveland,Ohio,25
+01-9822993,Peta,Petkens,23-06-1979,Male,Two or More Races,Business Development,Research Assistant I,Headquarters,27-09-2002,NULL,Cleveland,Ohio,44
+01-9903001,Aubrey,Clint,03-12-1966,Female,American Indian or Alaska Native,Sales,Relationshiop Manager,Remote,25-03-2010,NULL,Indianapolis,Indiana,56
+01-9906674,Malcolm,Garbott,21-06-1989,Female,Black or African American,Engineering,Software Engineer IV,Remote,13-11-2000,NULL,Carol Stream,Illinois,34
+01-9949768,Tiff,Cayzer,18-03-1977,Male,Two or More Races,Human Resources,HR Manager,Remote,10-02-2006,NULL,Columbus,Ohio,46
+01-9957786,Blondy,Orviss,12-10-1992,Male,American Indian or Alaska Native,Business Development,Research Assistant II,Headquarters,16-09-2003,24-07-2004,Cleveland,Ohio,30
+02-0023435,Georgy,Allitt,12-04-1979,Male,Hispanic or Latino,Engineering,Data Visualization Specialist,Headquarters,18-06-2011,13-06-2016,Cleveland,Ohio,44
+02-0157039,Meghan,Baptiste,07-04-1999,Female,Two or More Races,Product Management,Senior Quality Engineer,Headquarters,29-12-2001,NULL,Cleveland,Ohio,24
+02-0213470,Celeste,Shynn,09-06-1994,Female,Two or More Races,Business Development,Business Analyst,Remote,23-01-2015,NULL,Milwaukee,Wisconsin,29
+02-0283310,Halli,McDoual,29-09-1972,Male,Asian,Human Resources,Human Resources Analyst II,Remote,12-12-2001,NULL,Philadelphia,Pennsylvania,50
+02-0365819,Burlie,Portriss,28-10-1990,Female,Two or More Races,Services,Service Manager,Remote,12-10-2002,NULL,Toledo,Ohio,32
+02-0455590,Sheffield,Northey,05-03-1984,Female,Asian,Accounting,Staff Accountant II,Remote,22-10-2002,NULL,Akron,Ohio,39
+02-0492717,Stormi,McIlmorie,23-07-1973,Male,Black or African American,Services,Service Manager,Headquarters,13-11-2002,28-09-2010,Cleveland,Ohio,50
+02-0553123,Melloney,Gooley,18-06-1992,Male,White,Human Resources,Human Resources Analyst II,Headquarters,10-06-2020,NULL,Cleveland,Ohio,31
+02-0564663,Roselin,Bohlje,21-11-1984,Female,American Indian or Alaska Native,Engineering,Software Test Engineer IV,Remote,08-11-2018,NULL,Fort Wayne,Indiana,38
+02-0583383,Mada,Chamberlin,15-01-1978,Male,White,Business Development,Business Analyst,Remote,01-07-2004,NULL,Springfield,Illinois,45
+02-0602046,Rafe,Marven,05-12-1974,Male,White,Support,Desktop Support Technician,Headquarters,03-01-2012,NULL,Cleveland,Ohio,48
+02-0691316,Ugo,Eake,20-08-1996,Male,Asian,Engineering,Database Administrator IV,Remote,04-12-2002,NULL,Flint,Michigan,26
+02-0702454,Shayne,Banford,18-10-1990,Female,Black or African American,Sales,Account Executive,Headquarters,16-08-2018,NULL,Cleveland,Ohio,32
+02-0716914,Valerye,Whillock,10-04-1967,Female,Two or More Races,Human Resources,Human Resources Manager,Headquarters,05-04-2009,NULL,Cleveland,Ohio,56
+02-0731356,Fraze,Charpin,12-03-1998,Male,Asian,Training,Training Manager,Headquarters,07-01-2004,NULL,Cleveland,Ohio,25
+02-0895485,Maynord,Spiteri,21-06-1985,Male,White,Accounting,Staff Accountant I,Headquarters,05-06-2007,NULL,Cleveland,Ohio,38
+02-0921000,Hall,Gallon,08-04-1988,Male,Two or More Races,Engineering,Senior Financial Analyst,Headquarters,05-10-2018,26-08-2029,Cleveland,Ohio,35
+02-0984298,Demetrius,Repp,30-01-1975,Male,Black or African American,Engineering,Engineer II,Headquarters,19-06-2005,12-04-2016,Cleveland,Ohio,48
+02-1060745,Rob,Tuite,20-10-1986,Female,Two or More Races,Human Resources,Human Resources Analyst,Headquarters,27-12-2007,NULL,Cleveland,Ohio,36
+02-1061011,Esta,Crosthwaite,17-02-1986,Male,Two or More Races,Engineering,Research Assistant IV,Headquarters,16-05-2001,NULL,Cleveland,Ohio,37
+02-1115741,Barri,Seyfart,11-07-1980,Female,American Indian or Alaska Native,Engineering,Web Developer I,Headquarters,18-02-2018,26-11-2018,Cleveland,Ohio,43
+02-1183833,Jania,Beacroft,17-03-1973,Male,White,Accounting,Staff Accountant I,Headquarters,20-04-2017,NULL,Cleveland,Ohio,50
+02-1202510,Valina,Grindall,28-06-1989,Male,Black or African American,Business Development,Business Analyst,Headquarters,30-04-2018,NULL,Cleveland,Ohio,34
+02-1226234,Elka,Casari,25-08-2001,Male,White,Accounting,Cost Accountant,Headquarters,17-08-2001,NULL,Cleveland,Ohio,21
+02-1272283,Benjie,Vasechkin,25-04-1990,Male,American Indian or Alaska Native,Sales,Account Manager,Headquarters,15-06-2005,20-12-2017,Cleveland,Ohio,33
+02-1399070,Sampson,Mobberley,30-04-1994,Male,Black or African American,Accounting,Accounting Assistant II,Remote,25-04-2017,NULL,Chicago,Illinois,29
+02-1411026,Rollins,MacNockater,08-03-1966,Male,White,Engineering,Senior Developer,Headquarters,04-08-2010,NULL,Cleveland,Ohio,57
+02-1443955,Terra,Quixley,02-12-1968,Male,White,Business Development,Research Assistant II,Headquarters,06-05-2008,NULL,Cleveland,Ohio,54
+02-1473847,Sergio,Covington,26-05-1974,Male,White,Human Resources,Human Resources Analyst II,Headquarters,18-07-2003,NULL,Cleveland,Ohio,49
+02-1552311,Skye,Janusik,14-10-1972,Male,Black or African American,Accounting,Tax Accountant,Headquarters,14-01-2006,NULL,Cleveland,Ohio,50
+02-1558372,Charlotta,Wayne,20-02-2000,Female,Two or More Races,Research and Development,Quality Control Specialist,Headquarters,04-04-2002,NULL,Cleveland,Ohio,23
+02-1638262,Kalindi,Allan,02-08-1996,Female,White,Engineering,Software Engineer III,Headquarters,07-10-2016,NULL,Cleveland,Ohio,26
+02-1821357,Corette,Borell,07-08-1967,Male,Black or African American,Sales,Solutions Engineer,Remote,19-04-2008,13-03-2012,Philadelphia,Pennsylvania,55
+02-1851628,Wayne,Bilbee,06-04-1981,Male,White,Engineering,Programmer Analyst I,Headquarters,13-10-2010,NULL,Cleveland,Ohio,42
+02-2012861,Gilbertina,Deschelle,21-11-1975,Female,Two or More Races,Business Development,Research Assistant II,Headquarters,18-10-2004,NULL,Cleveland,Ohio,47
+02-2016173,Irina,Sheather,19-05-1975,Female,American Indian or Alaska Native,Accounting,Accounting Assistant II,Remote,06-01-2006,NULL,Columbus,Ohio,48
+02-2053862,Enriqueta,Preshous,08-02-1994,Female,Two or More Races,Accounting,Staff Accountant I,Remote,31-05-2019,NULL,Warren,Ohio,29
+02-2164900,Sukey,Gathercoal,02-09-1977,Female,American Indian or Alaska Native,Training,Trainer I,Remote,01-04-2014,NULL,Cincinnati,Ohio,45
+02-2245469,Dunc,Stock,25-03-1991,Male,Asian,Engineering,Data Visualization Specialist,Remote,08-10-2017,NULL,Detroit,Michigan,32
+02-2264688,Gearalt,Townshend,30-04-2002,Female,Asian,Engineering,Programmer Analyst I,Headquarters,09-12-2000,NULL,Cleveland,Ohio,21
+02-2375359,Vinny,Hattam,18-03-1968,Female,Black or African American,Sales,Account Manager,Headquarters,12-09-2015,NULL,Cleveland,Ohio,55
+02-2394964,Aube,Sivewright,19-07-1987,Male,Two or More Races,Engineering,Software Engineer I,Remote,05-11-2006,NULL,Cincinnati,Ohio,36
+02-2407293,Nessie,Gane,21-08-1979,Female,White,Accounting,Staff Accountant IV,Headquarters,15-05-2011,NULL,Cleveland,Ohio,43
+02-2430950,Oralia,Siddle,06-03-1997,Female,Black or African American,Accounting,Senior Cost Accountant,Headquarters,14-12-2001,NULL,Cleveland,Ohio,26
+02-2437930,Ahmed,Lerhinan,17-06-1967,Male,White,Services,Service Tech,Headquarters,02-08-2017,NULL,Cleveland,Ohio,56
+02-2477945,Marley,Mordaunt,20-06-1995,Male,White,Business Development,Research Assistant II,Headquarters,10-02-2003,NULL,Cleveland,Ohio,28
+02-2482582,Wynn,Rean,23-03-1996,Female,White,Accounting,Tax Accountant,Headquarters,24-12-2016,NULL,Cleveland,Ohio,27
+02-2486666,Ardene,McQuillen,08-09-1995,Male,Two or More Races,Accounting,Structural Engineer,Headquarters,04-08-2008,NULL,Cleveland,Ohio,27
+02-2504513,Freddy,Follett,03-08-1999,Female,Two or More Races,Accounting,Staff Accountant I,Headquarters,16-11-2018,NULL,Cleveland,Ohio,23
+02-2511143,Madeleine,O'Fallone,26-05-1987,Non-Conforming,Hispanic or Latino,Sales,Solutions Engineer Manager,Headquarters,08-06-2011,NULL,Cleveland,Ohio,36
+02-2571312,Kingsley,Chansonnau,21-10-1967,Female,White,Engineering,Programmer Analyst II,Remote,27-04-2020,NULL,York,Pennsylvania,55
+02-2582947,Chic,Cassam,04-12-2001,Female,White,Engineering,Programmer II,Remote,01-09-2001,NULL,Columbus,Ohio,21
+02-2631691,Nicolas,Berkery,18-02-1971,Female,Asian,Engineering,Developer IV,Headquarters,13-01-2010,NULL,Cleveland,Ohio,52
+02-2764484,Hanson,Felton,16-11-1993,Female,Asian,Business Development,Research Assistant II,Headquarters,01-04-2017,NULL,Cleveland,Ohio,29
+02-2814569,Minor,Addess,27-03-1987,Male,White,Human Resources,Human Resources Analyst II,Headquarters,02-03-2003,29-08-2014,Cleveland,Ohio,36
+02-2835404,Guido,Reichardt,05-07-1989,Male,White,Engineering,Programmer III,Headquarters,22-10-2009,NULL,Cleveland,Ohio,34
+02-2843005,Margarita,Wardle,06-03-1978,Female,Black or African American,Engineering,Data Visualization Specialist,Remote,03-09-2009,NULL,Canton,Ohio,45
+02-2843030,Juan,Nesby,24-08-1989,Male,Hispanic or Latino,Engineering,Computer Systems Analyst I,Remote,22-03-2009,NULL,Lancaster,Pennsylvania,33
+02-2868677,Roth,Crocken,30-08-2000,Male,White,Support,Help Desk Technician,Headquarters,22-01-2004,NULL,Cleveland,Ohio,22
+02-2892865,Amby,Neilus,06-07-1981,Male,Asian,Sales,Account Executive,Headquarters,21-01-2004,NULL,Cleveland,Ohio,42
+02-2935618,Carmela,McElvogue,16-11-1966,Male,White,Engineering,Chief Design Engineer,Headquarters,19-03-2005,NULL,Cleveland,Ohio,56
+02-3043161,Rhodia,Kildahl,11-08-1972,Male,Asian,Research and Development,Research Associate,Remote,11-03-2010,10-09-2021,Detroit,Michigan,50
+02-3091578,Wainwright,Domesday,09-01-1971,Female,White,Human Resources,Human Resources Analyst,Headquarters,03-10-2015,NULL,Cleveland,Ohio,52
+02-3116857,Ronny,Reye,12-09-1985,Male,Two or More Races,Services,Service Tech II,Headquarters,20-05-2017,NULL,Cleveland,Ohio,37
+02-3131184,Scot,Jaan,29-09-1985,Male,Asian,Accounting,Accountant II,Headquarters,28-03-2011,NULL,Cleveland,Ohio,37
+02-3178366,Calvin,Brislawn,06-06-1970,Male,Two or More Races,Engineering,Analyst Programmer,Headquarters,18-10-2018,05-02-2032,Cleveland,Ohio,53
+02-3241469,Abey,Cornuau,10-06-1979,Female,American Indian or Alaska Native,Accounting,Administrative Assistant II,Headquarters,09-08-2020,NULL,Cleveland,Ohio,44
+02-3265567,Gregoire,Salsbury,18-11-1982,Non-Conforming,Two or More Races,Sales,Relationshiop Manager,Remote,17-11-2020,NULL,Pittsburgh,Pennsylvania,40
+02-3294319,Bruce,Kennefick,23-08-2000,Male,Two or More Races,Product Management,Project Manager,Headquarters,22-04-2020,NULL,Cleveland,Ohio,22
+02-3365591,Hermy,Langan,11-11-1977,Male,Hispanic or Latino,Business Development,Research Assistant II,Headquarters,02-10-2015,NULL,Cleveland,Ohio,45
+02-3414035,Cloe,Wixey,14-12-1994,Female,Black or African American,Sales,Solutions Engineer Manager,Headquarters,07-07-2016,NULL,Cleveland,Ohio,28
+02-3429255,Calli,Ashlin,19-01-2000,Male,Asian,Legal,Senior Attorney,Headquarters,08-10-2004,10-06-2012,Cleveland,Ohio,23
+02-3511758,Lorelei,Idill,06-04-1981,Male,Black or African American,Business Development,Business Analyst,Headquarters,14-06-2012,NULL,Cleveland,Ohio,42
+02-3640881,Gardener,Aim,20-05-1968,Male,Asian,Engineering,Data Coordiator,Headquarters,06-01-2008,NULL,Cleveland,Ohio,55
+02-3687358,Terra,Febry,04-04-1987,Female,Asian,Training,Administrative Assistant I,Remote,20-10-2006,27-03-2023,Evansville,Indiana,36
+02-3704782,Annemarie,Bettenay,08-09-1993,Female,Black or African American,Engineering,Programmer Analyst III,Headquarters,07-02-2004,NULL,Cleveland,Ohio,29
+02-3710598,Rachel,Elven,20-09-1992,Male,American Indian or Alaska Native,Services,Service Tech II,Headquarters,19-11-2012,NULL,Cleveland,Ohio,30
+02-3738192,Joy,Ebbens,13-02-1992,Female,Black or African American,Research and Development,Structural Engineer,Headquarters,20-06-2020,NULL,Cleveland,Ohio,31
+02-3845025,Etan,Espinet,26-11-2000,Male,White,Engineering,Systems Administrator III,Headquarters,18-12-2002,NULL,Cleveland,Ohio,22
+02-3848206,Trip,Fallens,20-03-1993,Female,Asian,Services,Service Tech II,Headquarters,10-07-2019,NULL,Cleveland,Ohio,30
+02-3928744,Ruben,Lilian,14-11-1971,Male,Asian,Training,Trainer III,Headquarters,16-04-2016,NULL,Cleveland,Ohio,51
+02-4023201,Roanna,Doohan,17-01-1990,Female,White,Accounting,Accountant I,Headquarters,15-09-2006,NULL,Cleveland,Ohio,33
+02-4034188,Alfred,Holbarrow,07-08-1977,Female,Hispanic or Latino,Sales,Pre-Sales Consultant,Headquarters,14-04-2017,NULL,Cleveland,Ohio,45
+02-4064527,Cherida,Meaking,09-01-2001,Female,Hispanic or Latino,Research and Development,Structural Engineer,Headquarters,20-04-2007,NULL,Cleveland,Ohio,22
+02-4168881,Ingeborg,Stainland,17-05-1996,Female,Two or More Races,Accounting,Cost Accountant,Headquarters,01-11-2015,NULL,Cleveland,Ohio,27
+02-4210787,Jodi,Charlot,29-03-1979,Female,Hispanic or Latino,Engineering,Database Administrator I,Headquarters,11-02-2020,NULL,Cleveland,Ohio,44
+02-4244801,Rodney,Cape,05-04-1977,Male,Two or More Races,Training,Assistant Trainer,Headquarters,19-09-2003,NULL,Cleveland,Ohio,46
+02-4249650,Isa,Ingry,30-03-1988,Male,Two or More Races,Engineering,Quality Engineer,Headquarters,24-09-2004,NULL,Cleveland,Ohio,35
+02-4263333,Bethanne,Teresse,06-06-1972,Female,Two or More Races,Engineering,Developer II,Headquarters,18-07-2017,NULL,Cleveland,Ohio,51
+02-4292658,Grenville,Raffon,12-07-1968,Male,Hispanic or Latino,Engineering,Software Engineer IV,Remote,13-05-2010,NULL,Peoria,Illinois,55
+02-4303313,Guillema,Magee,17-08-1999,Male,White,Engineering,Software Engineer I,Headquarters,28-04-2005,NULL,Cleveland,Ohio,23
+02-4370125,Danell,Evert,24-02-1997,Female,Asian,Services,Service Tech,Headquarters,12-08-2012,NULL,Cleveland,Ohio,26
+02-4393826,Abe,Inkle,22-09-1968,Non-Conforming,Hispanic or Latino,Engineering,Business Analyst,Headquarters,29-07-2019,NULL,Cleveland,Ohio,54
+02-4466418,Charisse,Doldon,25-01-1978,Female,Native Hawaiian or Other Pacific Islander,Accounting,Staff Accountant I,Remote,30-12-2006,NULL,Detroit,Michigan,45
+02-4529253,Jed,Jantet,29-11-1968,Male,Black or African American,Support,Desktop Support Technician,Remote,31-10-2001,NULL,Louisville,Kentucky,54
+02-4662188,Yoshi,Alben,09-05-1995,Female,Hispanic or Latino,Engineering,Software Engineer I,Headquarters,01-09-2011,NULL,Cleveland,Ohio,28
+02-4700779,Faina,Stansell,01-12-1998,Female,Asian,Accounting,Tax Accountant,Headquarters,06-03-2014,22-09-2027,Cleveland,Ohio,24
+02-4807091,Vale,Castagnaro,24-12-1969,Male,Hispanic or Latino,Training,Content Developer III,Headquarters,20-11-2011,10-07-2026,Cleveland,Ohio,53
+02-4870534,Laverna,Battleson,30-05-1979,Male,Two or More Races,Engineering,Software Consultant,Headquarters,04-11-2006,NULL,Cleveland,Ohio,44
+02-5001856,Tull,Kingsmill,17-09-1990,Female,White,Engineering,Database Administrator I,Headquarters,04-04-2001,NULL,Cleveland,Ohio,32
+02-5052249,Ilyssa,Koch,13-07-1995,Male,White,Research and Development,Structural Engineer,Headquarters,10-09-2019,23-07-2029,Cleveland,Ohio,28
+02-5058352,Tonnie,Romand,28-01-1985,Male,Asian,Support,Support Staff,Remote,26-11-2018,NULL,Columbus,Ohio,38
+02-5092188,Victoria,Picot,19-06-1996,Male,Hispanic or Latino,Engineering,Software Engineer I,Headquarters,07-06-2002,NULL,Cleveland,Ohio,27
+02-5098456,Eugen,Pentycost,13-01-1979,Male,Black or African American,Product Management,Business Analyst,Headquarters,16-07-2007,NULL,Cleveland,Ohio,44
+02-5131914,Bertram,Moyers,07-02-1974,Female,American Indian or Alaska Native,Engineering,Database Administrator IV,Headquarters,19-06-2017,NULL,Cleveland,Ohio,49
+02-5173767,Josias,Wrankling,13-08-1984,Female,White,Accounting,Tax Accountant,Headquarters,18-11-2016,NULL,Cleveland,Ohio,38
+02-5197822,Dennet,Elliker,10-09-1968,Female,White,Engineering,Analyst Programmer,Headquarters,04-07-2008,NULL,Cleveland,Ohio,54
+02-5225131,Jesselyn,Vick,31-01-1969,Male,Asian,Engineering,Senior Developer,Headquarters,13-07-2008,NULL,Cleveland,Ohio,54
+02-5228412,Scarlet,Muggleton,07-06-2002,Male,Black or African American,Engineering,Systems Administrator I,Headquarters,11-02-2020,NULL,Cleveland,Ohio,21
+02-5236312,Meredeth,Christian,30-08-1971,Male,Asian,Research and Development,Structural Engineer,Headquarters,23-08-2018,NULL,Cleveland,Ohio,51
+02-5283413,Chelsy,Cowerd,12-10-1987,Female,White,Engineering,Programmer Analyst III,Remote,19-02-2004,NULL,Dayton,Ohio,35
+02-5365306,Colet,Shinton,19-02-1986,Female,White,Accounting,Staff Accountant III,Remote,22-06-2009,13-04-2010,Dayton,Ohio,37
+02-5404648,Dana,O' Markey,20-07-1974,Female,Asian,Human Resources,Human Resources Analyst II,Headquarters,16-04-2015,NULL,Cleveland,Ohio,49
+02-5475092,Martino,Naile,23-12-1994,Non-Conforming,Black or African American,Support,Help Desk Technician,Headquarters,16-01-2012,NULL,Cleveland,Ohio,28
+02-5476489,Joeann,Johanning,09-03-1978,Female,Black or African American,Training,Trainer I,Headquarters,12-10-2019,NULL,Cleveland,Ohio,45
+02-5523050,Ferguson,Isham,05-06-1974,Male,Black or African American,Support,Desktop Support Technician,Headquarters,13-02-2010,NULL,Cleveland,Ohio,49
+02-5610726,Bald,De la Yglesia,15-11-1992,Female,American Indian or Alaska Native,Services,Service Coordinator,Headquarters,12-02-2011,NULL,Cleveland,Ohio,30
+02-5612157,Correna,Josowitz,22-12-1966,Female,Asian,Training,Trainer II,Remote,08-12-2009,NULL,Scranton,Pennsylvania,56
+02-5641376,Beauregard,Linklater,26-12-1994,Male,Asian,Human Resources,HR Manager,Headquarters,20-02-2016,NULL,Cleveland,Ohio,28
+02-5995293,Rafaelia,Biaggetti,28-03-1996,Male,White,Engineering,Data Visualization Specialist,Headquarters,27-06-2016,NULL,Cleveland,Ohio,27
+02-6032154,Celestina,Barlace,16-07-1973,Male,Asian,Accounting,Staff Accountant I,Remote,07-10-2004,NULL,Fort Wayne,Indiana,50
+02-6155914,Thacher,Seniour,20-06-1994,Female,White,Sales,Account Manager,Remote,01-02-2002,NULL,Muskegon,Michigan,29
+02-6166187,Nissa,Sealey,05-02-1970,Male,Black or African American,Engineering,Software Engineer I,Headquarters,27-03-2017,NULL,Cleveland,Ohio,53
+02-6180556,Aurea,Woolward,09-12-1974,Non-Conforming,Black or African American,Sales,Account Executive,Headquarters,08-12-2000,NULL,Cleveland,Ohio,48
+02-6270951,Bob,Kleszinski,05-10-1992,Female,Asian,Training,Trainer II,Headquarters,11-10-2010,07-12-2012,Cleveland,Ohio,30
+02-6313385,Meta,Dennerley,22-10-1974,Female,Hispanic or Latino,Sales,Account Executive,Remote,12-09-2004,21-10-2005,Cincinnati,Ohio,48
+02-6361965,Damon,Collinson,21-08-1989,Male,White,Engineering,Senior Developer,Headquarters,10-03-2007,NULL,Cleveland,Ohio,33
+02-6386867,Ronna,Twiggs,30-05-1999,Female,Hispanic or Latino,Training,Training Manager,Headquarters,22-04-2012,NULL,Cleveland,Ohio,24
+02-6498239,Blinnie,Britto,19-05-1976,Male,Asian,Human Resources,Compensation Analyst,Headquarters,25-12-2012,NULL,Cleveland,Ohio,47
+02-6555233,Raleigh,Leggan,02-02-1999,Female,Asian,Engineering,Information Systems Manager,Headquarters,04-10-2012,NULL,Cleveland,Ohio,24
+02-6616430,Clemmy,Dutch,04-03-1985,Male,Black or African American,Services,Service Manager,Headquarters,14-03-2016,NULL,Cleveland,Ohio,38
+02-6637432,Andreana,Mugg,02-02-1993,Female,Two or More Races,Engineering,Data Coordiator,Headquarters,08-10-2001,NULL,Cleveland,Ohio,30
+02-6692940,Leanora,Christaeas,22-12-1978,Female,White,Engineering,Software Engineer III,Headquarters,01-02-2015,NULL,Cleveland,Ohio,44
+02-6799460,Elizabet,Linwood,23-08-1971,Female,Two or More Races,Business Development,Research Assistant II,Headquarters,08-11-2000,NULL,Cleveland,Ohio,51
+02-6804243,Ivor,Mowle,15-07-1972,Female,Two or More Races,Research and Development,Operator,Headquarters,25-12-2006,NULL,Cleveland,Ohio,51
+02-6824219,Faydra,Slevin,11-01-1999,Male,White,Business Development,Research Assistant I,Remote,24-10-2016,NULL,Fort Wayne,Indiana,24
+02-6853604,Blinny,Domange,02-01-1979,Female,White,Engineering,Web Developer II,Headquarters,10-12-2017,NULL,Cleveland,Ohio,44
+02-6930924,Gibb,Belbin,13-08-1985,Female,White,Research and Development,Senior Quality Engineer,Headquarters,01-06-2018,NULL,Cleveland,Ohio,37
+02-7078487,Trumaine,Egdell,07-12-1980,Male,White,Accounting,Accounting Assistant I,Headquarters,18-08-2013,13-09-2028,Cleveland,Ohio,42
+02-7252298,Ted,Clears,30-07-2000,Male,Black or African American,Accounting,Staff Accountant I,Remote,14-07-2010,24-03-2015,Lexington,Kentucky,22
+02-7324881,Sauncho,Bogges,13-05-1982,Female,Hispanic or Latino,Accounting,Cost Accountant,Headquarters,04-06-2017,NULL,Cleveland,Ohio,41
+02-7364203,Diena,Rump,16-06-1980,Male,Black or African American,Accounting,Tax Accountant,Headquarters,25-05-2002,NULL,Cleveland,Ohio,43
+02-7423004,Sharleen,Abba,04-02-1994,Female,Native Hawaiian or Other Pacific Islander,Engineering,Information Systems Manager,Headquarters,31-07-2020,NULL,Cleveland,Ohio,29
+02-7424672,Leoine,Chinnery,25-08-1968,Male,White,Services,Service Tech II,Headquarters,17-03-2001,NULL,Cleveland,Ohio,54
+02-7482315,Audrye,Rowson,22-08-1998,Male,Two or More Races,Engineering,Systems Administrator IV,Headquarters,31-05-2006,NULL,Cleveland,Ohio,24
+02-7493243,Lenci,Swalough,07-05-1992,Female,Hispanic or Latino,Support,Help Desk Technician,Headquarters,06-01-2008,NULL,Cleveland,Ohio,31
+02-7497120,Herb,Proom,26-09-1982,Female,Hispanic or Latino,Engineering,Business Analyst,Headquarters,12-03-2007,NULL,Cleveland,Ohio,40
+02-7660405,Welsh,Manjin,31-07-1974,Female,White,Business Development,Business Analyst,Headquarters,21-11-2009,11-01-2026,Cleveland,Ohio,48
+02-7724901,Drusy,Mooney,14-10-1991,Male,Hispanic or Latino,Training,Trainer I,Headquarters,24-06-2004,NULL,Cleveland,Ohio,31
+02-7821145,Guendolen,Neles,06-09-1980,Male,Two or More Races,Training,Trainer II,Headquarters,17-10-2000,NULL,Cleveland,Ohio,42
+02-7824555,Bonita,Dowe,15-10-1999,Non-Conforming,White,Business Development,Research Assistant II,Headquarters,25-11-2017,NULL,Cleveland,Ohio,23
+02-7865520,Waverly,Chastagnier,09-01-1979,Female,Hispanic or Latino,Accounting,Senior Cost Accountant,Headquarters,26-05-2006,NULL,Cleveland,Ohio,44
+02-7918864,Saidee,Gracey,24-06-1991,Female,Two or More Races,Accounting,Accounting Assistant I,Remote,31-10-2008,NULL,Farmington,Michigan,32
+02-7951059,Hillel,Yakovl,01-03-1976,Male,White,Marketing,Senior Editor,Headquarters,27-08-2003,NULL,Cleveland,Ohio,47
+02-8010051,Arluene,D' Angelo,24-09-1979,Male,Two or More Races,Engineering,Programmer II,Headquarters,25-10-2001,NULL,Cleveland,Ohio,43
+02-8015603,Gaye,Candelin,14-01-2002,Male,Black or African American,Human Resources,Senior Recruiter,Remote,15-06-2006,NULL,Jeffersonville,Indiana,21
+02-8023786,Pooh,Redding,22-06-1969,Female,Black or African American,Accounting,Accountant IV,Headquarters,19-04-2005,20-09-2006,Cleveland,Ohio,54
+02-8063992,Martha,Bowhey,13-09-2001,Female,White,Business Development,Research Assistant II,Remote,11-09-2016,NULL,Indianapolis,Indiana,21
+02-8121475,Corty,Mirando,24-09-1968,Male,American Indian or Alaska Native,Engineering,Analog Circuit Design manager,Headquarters,25-12-2000,NULL,Cleveland,Ohio,54
+02-8178381,Madelaine,Waterstone,10-05-1990,Male,Two or More Races,Marketing,Media Manager I,Headquarters,30-07-2008,01-05-2016,Cleveland,Ohio,33
+02-8192484,Wye,Mallebone,22-04-1998,Male,Asian,Product Management,Quality Engineer,Headquarters,20-05-2015,NULL,Cleveland,Ohio,25
+02-8258500,Jesus,Meddick,24-08-1986,Male,White,Engineering,Data Visualization Specialist,Headquarters,28-06-2016,NULL,Cleveland,Ohio,36
+02-8285118,Ninon,Jacklings,26-02-1973,Female,White,Training,Training Manager,Headquarters,20-02-2010,NULL,Cleveland,Ohio,50
+02-8291119,Bond,Soule,25-05-1988,Female,White,Engineering,Computer Systems Analyst II,Headquarters,26-07-2001,NULL,Cleveland,Ohio,35
+02-8323035,Caria,Culbard,24-11-1995,Male,White,Business Development,Business Analyst,Headquarters,05-02-2012,NULL,Cleveland,Ohio,27
+02-8326189,Abrahan,MacAne,14-09-1971,Female,Two or More Races,Services,Service Tech III,Headquarters,09-11-2001,NULL,Cleveland,Ohio,51
+02-8349881,Glenda,Serfati,13-05-2002,Female,Two or More Races,Training,Training Manager,Headquarters,16-09-2001,04-04-2005,Cleveland,Ohio,21
+02-8480785,Lindi,Brogan,10-11-1970,Male,Hispanic or Latino,Accounting,Accounting Assistant I,Headquarters,12-06-2009,NULL,Cleveland,Ohio,52
+02-8537525,Conrado,Baradel,19-06-1967,Female,Hispanic or Latino,Sales,Solutions Engineer,Remote,04-01-2003,22-11-2009,Chicago,Illinois,56
+02-8606176,Sabra,Sange,31-01-1977,Female,Asian,Engineering,Software Engineer I,Headquarters,17-04-2004,14-10-2008,Cleveland,Ohio,46
+02-8608961,Harris,Alekhov,15-05-1973,Male,White,Accounting,Staff Accountant I,Remote,24-08-2019,NULL,Madison,Wisconsin,50
+02-8655722,Frank,Harland,12-03-2000,Male,Native Hawaiian or Other Pacific Islander,Services,Service Coordinator,Remote,11-09-2004,23-05-2020,Lexington,Kentucky,23
+02-8753102,Darleen,Blackaller,15-06-1976,Female,White,Services,Service Tech,Headquarters,26-10-2006,NULL,Cleveland,Ohio,47
+02-8755229,Keene,Iacomelli,06-10-1982,Male,White,Business Development,Human Resources Analyst II,Headquarters,11-12-2012,NULL,Cleveland,Ohio,40
+02-8771890,Kariotta,Lowth,09-05-1991,Non-Conforming,Black or African American,Business Development,Research Assistant II,Headquarters,06-10-2013,NULL,Cleveland,Ohio,32
+02-8791262,Lockwood,Bousler,11-08-1978,Male,Black or African American,Product Management,Design Engineer,Headquarters,14-01-2011,NULL,Cleveland,Ohio,44
+02-8814353,Tod,Frankema,08-11-1967,Female,White,Business Development,Business Analyst,Remote,05-05-2005,NULL,Grand Rapids,Michigan,55
+02-8826003,Tobit,Peatman,22-12-1999,Non-Conforming,Black or African American,Engineering,Automation Specialist I,Headquarters,10-03-2008,18-01-2012,Cleveland,Ohio,23
+02-8830577,Blanch,Petty,26-04-1993,Female,Two or More Races,Engineering,Database Administrator IV,Remote,01-06-2011,NULL,Chicago,Illinois,30
+02-8871139,Will,Lang,01-08-1979,Female,Two or More Races,Engineering,Computer Systems Analyst II,Headquarters,02-08-2020,NULL,Cleveland,Ohio,43
+02-8909025,Alonso,Jaffrey,26-12-1984,Female,Asian,Support,Desktop Support Technician,Headquarters,27-06-2008,NULL,Cleveland,Ohio,38
+02-8962412,Agata,Bartholat,01-07-1973,Female,White,Sales,Account Executive,Remote,02-03-2010,04-01-2027,Chicago,Illinois,50
+02-9025346,Dolly,Thomsen,13-11-1979,Female,Asian,Product Management,Project Manager,Headquarters,02-09-2014,NULL,Cleveland,Ohio,43
+02-9027630,Zoe,Upcraft,10-06-1975,Male,Hispanic or Latino,Sales,Pre-Sales Consultant,Headquarters,08-02-2007,NULL,Cleveland,Ohio,48
+02-9058302,Hyacinth,Disley,03-05-1977,Female,Hispanic or Latino,Engineering,Data Coordiator,Headquarters,09-03-2005,NULL,Cleveland,Ohio,46
+02-9164267,Eyde,Threadgill,28-08-1990,Female,Asian,Human Resources,Human Resources Analyst,Remote,21-08-2007,NULL,Evanston,Illinois,32
+02-9168361,Charlotte,Banbrick,13-04-1987,Male,Hispanic or Latino,Research and Development,Structural Engineer,Headquarters,11-06-2007,NULL,Cleveland,Ohio,36
+02-9198167,Quill,Olivia,22-01-1986,Female,Native Hawaiian or Other Pacific Islander,Training,Senior Trainer,Headquarters,24-11-2000,24-08-2006,Cleveland,Ohio,37
+02-9208834,Luciana,Kopf,08-05-1977,Female,Two or More Races,Research and Development,Research Assistant I,Remote,21-10-2014,NULL,Milwaukee,Wisconsin,46
+02-9271017,Lauretta,Barkhouse,06-01-1973,Male,Asian,Engineering,Business Systems Development Analyst,Headquarters,27-06-2002,NULL,Cleveland,Ohio,50
+02-9343607,Kristy,Addionizio,08-03-1982,Male,Black or African American,Human Resources,Recruiter,Remote,19-09-2017,NULL,Allentown,Pennsylvania,41
+02-9360852,Ethelind,Hightown,24-06-1992,Female,American Indian or Alaska Native,Accounting,Accounting Assistant I,Headquarters,20-12-2004,NULL,Cleveland,Ohio,31
+02-9375650,Valentia,Nuccii,17-08-1989,Female,Asian,Marketing,Marketing Manager,Headquarters,22-10-2019,NULL,Cleveland,Ohio,33
+02-9380911,Zacherie,Rubbert,04-11-1999,Male,White,Marketing,Marketing Assistant,Headquarters,06-05-2009,NULL,Cleveland,Ohio,23
+02-9395540,Shirleen,Vergo,18-03-1976,Male,White,Services,Service Tech,Remote,07-04-2005,NULL,Philadelphia,Pennsylvania,47
+02-9416533,Bethany,Benediktsson,31-07-1995,Non-Conforming,Hispanic or Latino,Accounting,Senior Cost Accountant,Headquarters,07-10-2009,NULL,Cleveland,Ohio,27
+02-9470073,Bryce,Frary,31-10-1998,Female,Asian,Engineering,Software Engineer I,Remote,12-04-2016,NULL,Dayton,Ohio,24
+02-9481041,Vanessa,Hall-Gough,14-10-1971,Female,Asian,Business Development,Research Assistant II,Headquarters,25-11-2001,NULL,Cleveland,Ohio,51
+02-9503780,Kelley,Castaner,26-11-1977,Female,Asian,Engineering,Data Visualization Specialist,Headquarters,18-09-2014,NULL,Cleveland,Ohio,45
+02-9613665,Sindee,Kike,26-06-2002,Male,White,Marketing,Media Manager II,Headquarters,10-01-2001,NULL,Cleveland,Ohio,21
+02-9774686,Bryce,Smitherham,16-03-1982,Male,White,Accounting,Cost Accountant,Headquarters,19-11-2000,NULL,Cleveland,Ohio,41
+02-9778484,Francis,Alleway,20-04-1974,Female,Asian,Accounting,Budget/Accounting Analyst II,Headquarters,21-10-2000,NULL,Cleveland,Ohio,49
+02-9825039,Lyssa,Rainton,13-04-1998,Female,Two or More Races,Marketing,Media Manager I,Headquarters,11-10-2004,NULL,Cleveland,Ohio,25
+02-9825891,Tarrah,Oleksinski,23-09-1979,Female,Black or African American,Engineering,Data Coordiator,Headquarters,06-12-2005,NULL,Cleveland,Ohio,43
+02-9848635,Jo-ann,Blitzer,17-03-1971,Female,Asian,Research and Development,Quality Control Specialist,Headquarters,13-05-2005,25-04-2012,Cleveland,Ohio,52
+02-9938965,Ana,Feldstern,02-03-1985,Male,Two or More Races,Training,Trainer I,Headquarters,05-12-2013,NULL,Cleveland,Ohio,38
+02-9972932,Evanne,Lander,05-08-1967,Female,Hispanic or Latino,Accounting,Staff Accountant I,Headquarters,06-02-2009,NULL,Cleveland,Ohio,55
+03-0027869,Shepard,Codrington,06-05-1980,Male,Hispanic or Latino,Accounting,Senior Cost Accountant,Remote,15-02-2008,NULL,Pittsburgh,Pennsylvania,43
+03-0136911,Nicholas,Note,18-12-1993,Male,Asian,Engineering,Software Engineer I,Headquarters,27-11-2015,NULL,Cleveland,Ohio,29
+03-0165089,Peggie,Beed,28-11-1994,Female,White,Training,Trainer I,Remote,03-03-2002,NULL,Philadelphia,Pennsylvania,28
+03-0179558,Alanson,Lavery,29-09-1991,Male,Hispanic or Latino,Sales,Relationshiop Manager,Remote,08-01-2003,NULL,Dearborn,Michigan,31
+03-0190933,Derek,Southcoat,28-01-1975,Male,Black or African American,Marketing,Media Manager I,Remote,12-06-2008,NULL,Canton,Ohio,48
+03-0229988,Joshia,Pechacek,08-01-1990,Female,White,Human Resources,Compensation Analyst,Remote,18-01-2004,NULL,Indianapolis,Indiana,33
+03-0245358,Karlan,Bissatt,26-07-1977,Male,Two or More Races,Engineering,Systems Administrator IV,Headquarters,08-02-2008,NULL,Cleveland,Ohio,46
+03-0247470,Mickie,Kirsche,26-12-1974,Female,White,Services,Service Tech II,Remote,08-11-2005,29-07-2025,Pittsburgh,Pennsylvania,48
+03-0288444,Kora,Apperley,11-02-1998,Female,American Indian or Alaska Native,Research and Development,Research Associate,Remote,15-05-2006,NULL,Pittsburgh,Pennsylvania,25
+03-0344195,Arlyn,Favel,27-10-1991,Female,Hispanic or Latino,Business Development,Business Analyst,Remote,07-01-2006,NULL,Fort Wayne,Indiana,31
+03-0352788,Matteo,Buckleigh,27-07-1981,Female,White,Engineering,Data Visualization Specialist,Headquarters,08-08-2008,NULL,Cleveland,Ohio,42
+03-0397691,Tabbatha,Carruth,26-05-1982,Male,Hispanic or Latino,Accounting,Accounting Assistant I,Headquarters,17-03-2012,NULL,Cleveland,Ohio,41
+03-0418386,Pippa,Morsey,29-09-2001,Female,White,Auditing,Internal Auditor,Remote,12-02-2008,NULL,Columbus,Ohio,21
+03-0420336,Nettle,Blogg,23-10-1992,Female,White,Engineering,Programmer Analyst III,Headquarters,13-02-2013,NULL,Cleveland,Ohio,30
+03-0488568,Jobey,Dickinson,19-09-1980,Female,Hispanic or Latino,Engineering,Analog Circuit Design manager,Remote,02-06-2002,NULL,Philadelphia,Pennsylvania,42
+03-0571721,Ethelyn,Belverstone,12-06-1982,Male,Two or More Races,Engineering,Software Test Engineer IV,Headquarters,09-06-2007,NULL,Cleveland,Ohio,41
+03-0603418,Ware,Gillicuddy,23-05-1968,Male,Two or More Races,Services,Service Tech III,Headquarters,28-03-2010,14-08-2019,Cleveland,Ohio,55
+03-0707961,Lorenzo,Bresner,07-09-1999,Male,White,Engineering,Programmer II,Remote,25-03-2017,NULL,Bethlehem,Pennsylvania,23
+03-0741335,Arthur,Gilbanks,22-07-2001,Male,White,Engineering,Business Systems Development Analyst,Headquarters,05-02-2015,NULL,Cleveland,Ohio,22
+03-0742870,Cicely,Sindle,30-07-1982,Female,White,Training,Trainer I,Headquarters,12-05-2010,NULL,Cleveland,Ohio,40
+03-0743140,Arte,McAster,05-03-2002,Female,Two or More Races,Engineering,Senior Developer,Headquarters,03-02-2019,NULL,Cleveland,Ohio,21
+03-0756081,Terencio,Bann,15-05-1976,Male,Black or African American,Engineering,Software Engineer I,Headquarters,14-04-2011,19-03-2013,Cleveland,Ohio,47
+03-0838915,Delmar,Dakhov,03-03-1973,Female,White,Engineering,Software Consultant,Headquarters,12-04-2020,NULL,Cleveland,Ohio,50
+03-0900961,Tremain,Lyngsted,10-10-1981,Female,Two or More Races,Engineering,Programmer I,Remote,27-08-2012,NULL,Springfield,Illinois,41
+03-0917668,Bria,Parlour,13-12-2001,Male,Native Hawaiian or Other Pacific Islander,Services,Service Tech,Remote,07-12-2001,NULL,Philadelphia,Pennsylvania,21
+03-0944815,Danyette,Wrate,14-02-1976,Female,Black or African American,Business Development,Research Assistant II,Remote,04-08-2014,NULL,Louisville,Kentucky,47
+03-0966446,Pennie,Clyne,29-04-1974,Female,American Indian or Alaska Native,Product Management,Project Manager,Headquarters,21-08-2006,NULL,Cleveland,Ohio,49
+03-1007884,Price,O'Moylane,05-10-1983,Female,White,Support,Desktop Support Technician,Remote,12-01-2004,NULL,Cincinnati,Ohio,39
+03-1103571,Nertie,Felten,27-02-1968,Female,White,Accounting,Accounting Assistant III,Headquarters,24-01-2004,NULL,Cleveland,Ohio,55
+03-1158217,Rutger,Iveagh,03-11-1984,Male,White,Research and Development,Structural Engineer,Remote,15-03-2005,17-07-2005,South Bend,Indiana,38
+03-1163406,Kenn,Pond-Jones,10-12-1998,Male,White,Legal,Attorney,Headquarters,13-02-2002,NULL,Cleveland,Ohio,24
+03-1185671,Farr,Le Fevre,31-01-1973,Female,American Indian or Alaska Native,Sales,Account Executive,Headquarters,27-10-2003,NULL,Cleveland,Ohio,50
+03-1225101,Pennie,Dillow,31-07-1999,Female,Black or African American,Human Resources,Human Resources Analyst II,Headquarters,05-01-2006,NULL,Cleveland,Ohio,23
+03-1228968,Rhiamon,Tchir,27-01-1989,Female,American Indian or Alaska Native,Product Management,Project Manager,Headquarters,08-05-2017,NULL,Cleveland,Ohio,34
+03-1265056,Baird,Hambers,08-11-2001,Male,Black or African American,Training,Trainer III,Headquarters,15-08-2018,NULL,Cleveland,Ohio,21
+03-1270313,Mayne,Banbrick,04-08-1967,Female,Black or African American,Sales,Relationshiop Manager,Headquarters,19-10-2005,01-12-2022,Cleveland,Ohio,55
+03-1305041,Emmott,Beverstock,13-11-1996,Female,White,Human Resources,Human Resources Assistant III,Headquarters,23-08-2005,NULL,Cleveland,Ohio,26
+03-1392351,Randene,Noden,12-04-1992,Female,American Indian or Alaska Native,Business Development,Research Assistant I,Headquarters,04-08-2018,NULL,Cleveland,Ohio,31
+03-1401254,Andie,Jenkyn,28-08-1992,Male,Two or More Races,Engineering,Programmer III,Headquarters,25-09-2020,NULL,Cleveland,Ohio,30
+03-1442317,Carlota,Tilson,29-07-1985,Female,White,Services,General Manager,Headquarters,06-09-2003,NULL,Cleveland,Ohio,37
+03-1452172,Ainslie,Tidbury,01-08-1999,Female,White,Engineering,Software Engineer I,Headquarters,25-06-2003,22-12-2019,Cleveland,Ohio,23
+03-1564651,Hubie,Forman,31-07-1974,Male,Hispanic or Latino,Product Management,Product Engineer,Headquarters,02-07-2001,NULL,Cleveland,Ohio,48
+03-1648670,Finn,Guirau,10-06-1981,Male,Hispanic or Latino,Marketing,VP Marketing,Headquarters,09-09-2019,NULL,Cleveland,Ohio,42
+03-1719199,Camille,Masterman,21-03-1981,Male,White,Engineering,Software Consultant,Headquarters,26-01-2007,NULL,Cleveland,Ohio,42
+03-1759111,Charity,Isaksson,16-05-1994,Male,Asian,Accounting,Cost Accountant,Headquarters,11-01-2009,NULL,Cleveland,Ohio,29
+03-1783423,Filippo,Loade,17-07-1998,Female,Asian,Sales,Solutions Engineer Manager,Headquarters,20-01-2009,NULL,Cleveland,Ohio,25
+03-1812727,Claudina,Brotheridge,06-12-1979,Female,White,Accounting,Accountant I,Headquarters,06-01-2007,NULL,Cleveland,Ohio,43
+03-1859502,Alanson,Housecroft,28-10-1968,Male,White,Product Management,Project Manager,Headquarters,19-10-2002,NULL,Cleveland,Ohio,54
+03-1863653,Jeremy,Purchase,20-08-2000,Male,White,Engineering,Web Developer IV,Headquarters,03-01-2011,NULL,Cleveland,Ohio,22
+03-1878121,Fairleigh,Oggers,04-06-1978,Female,Asian,Training,Trainer III,Headquarters,06-07-2013,NULL,Cleveland,Ohio,45
+03-1881282,Cecil,Hannay,21-03-1983,Male,Native Hawaiian or Other Pacific Islander,Sales,Pre-Sales Consultant,Remote,21-10-2002,NULL,Philadelphia,Pennsylvania,40
+03-1910898,Richmound,Baumber,22-06-2000,Male,Black or African American,Engineering,Quality Control Specialist,Headquarters,27-08-2006,30-04-2016,Cleveland,Ohio,23
+03-2045542,Sunny,Callum,26-06-1977,Non-Conforming,American Indian or Alaska Native,Engineering,Web Developer I,Headquarters,11-03-2020,NULL,Cleveland,Ohio,46
+03-2136921,Sharia,Riddock,17-07-1986,Male,Hispanic or Latino,Human Resources,Human Resources Analyst II,Headquarters,18-10-2006,16-01-2018,Cleveland,Ohio,37
+03-2188572,Kristel,Farington,30-03-1974,Male,Hispanic or Latino,Human Resources,Human Resources Analyst,Remote,18-10-2016,NULL,Louisville,Kentucky,49
+03-2238169,Bevin,Coaten,10-09-1979,Female,Two or More Races,Engineering,Data Visualization Specialist,Remote,08-10-2013,NULL,Detroit,Michigan,43
+03-2359010,Iver,Dutnall,03-10-1978,Male,Hispanic or Latino,Research and Development,Structural Engineer,Headquarters,21-01-2001,NULL,Cleveland,Ohio,44
+03-2388234,Christoph,Smieton,12-07-1987,Female,Hispanic or Latino,Training,Trainer I,Headquarters,15-09-2006,12-04-2010,Cleveland,Ohio,36
+03-2410052,Gaile,Foyle,20-05-1996,Male,Hispanic or Latino,Sales,Account Manager,Headquarters,04-07-2018,NULL,Cleveland,Ohio,27
+03-2412363,Tully,Darey,22-08-1999,Male,Black or African American,Marketing,VP Marketing,Headquarters,07-07-2020,NULL,Cleveland,Ohio,23
+03-2512094,Dougy,Jankovsky,03-06-1979,Male,Asian,Accounting,Accountant II,Headquarters,15-04-2009,NULL,Cleveland,Ohio,44
+03-2618961,Winthrop,Vatini,09-08-1995,Male,White,Accounting,Accountant III,Headquarters,09-02-2017,25-09-2032,Cleveland,Ohio,27
+03-2665184,Benedicto,Morland,27-06-1981,Female,White,Training,Administrative Assistant II,Remote,14-07-2008,NULL,Lexington,Kentucky,42
+03-2687919,Alf,Pascow,17-01-1986,Male,Black or African American,Sales,Customer Success Manager,Headquarters,11-09-2015,NULL,Cleveland,Ohio,37
+03-2726936,Magnum,Smalley,15-01-1967,Male,White,Services,Service Tech,Headquarters,03-05-2019,NULL,Cleveland,Ohio,56
+03-2751365,Malory,Vears,24-07-1991,Female,Black or African American,Human Resources,Human Resources Analyst II,Headquarters,25-11-2010,NULL,Cleveland,Ohio,32
+03-2764930,Juliane,Dunthorn,23-04-1991,Male,Asian,Engineering,Programmer II,Headquarters,14-06-2012,NULL,Cleveland,Ohio,32
+03-2830109,Lorine,Dellar,14-04-1972,Female,Two or More Races,Accounting,VP Accounting,Headquarters,20-05-2007,NULL,Cleveland,Ohio,51
+03-2859776,Bridget,Bunston,20-06-1977,Male,White,Engineering,Software Test Engineer III,Headquarters,09-06-2006,28-12-2026,Cleveland,Ohio,46
+03-2874966,Vivia,Blackly,07-02-1984,Female,Two or More Races,Legal,Attorney,Headquarters,26-01-2001,NULL,Cleveland,Ohio,39
+03-2960058,Lexi,Loftin,19-05-1999,Male,American Indian or Alaska Native,Engineering,Data Coordiator,Remote,01-09-2016,NULL,Milwaukee,Wisconsin,24
+03-2993254,Charo,Elven,11-02-1991,Male,Hispanic or Latino,Engineering,Data Visualization Specialist,Headquarters,07-11-2006,NULL,Cleveland,Ohio,32
+03-3065184,Emmott,Cargenven,01-03-1997,Female,Two or More Races,Accounting,Accounting Assistant I,Headquarters,03-07-2009,02-11-2016,Cleveland,Ohio,26
+03-3297312,Almeria,Adney,20-08-1983,Female,Asian,Engineering,Data Coordiator,Headquarters,02-06-2020,NULL,Cleveland,Ohio,39
+03-3323204,Berti,Pashby,18-06-1980,Male,Asian,Accounting,Cost Accountant,Headquarters,22-08-2010,NULL,Cleveland,Ohio,43
+03-3428358,Rafa,Ryce,19-01-1970,Female,White,Product Management,Quality Engineer,Headquarters,28-08-2017,NULL,Cleveland,Ohio,53
+03-3450991,Raynor,Fraschini,22-07-1989,Female,Native Hawaiian or Other Pacific Islander,Training,Trainer III,Headquarters,01-10-2020,NULL,Cleveland,Ohio,34
+03-3451727,Lisle,Pluvier,13-09-1983,Female,Hispanic or Latino,Training,Trainer III,Headquarters,02-11-2017,NULL,Cleveland,Ohio,39
+03-3475507,Jeanna,Willbraham,19-02-1998,Male,Asian,Training,Content Developer,Headquarters,28-12-2006,NULL,Cleveland,Ohio,25
+03-3614782,Filbert,Gleave,22-01-1976,Male,Asian,Engineering,Data Coordiator,Remote,17-11-2000,NULL,Dayton,Ohio,47
+03-3657847,Ariel,McIlmorie,26-08-1997,Male,Two or More Races,Engineering,Web Developer II,Headquarters,16-02-2018,NULL,Cleveland,Ohio,25
+03-3757534,Diann,Northbridge,20-05-1970,Female,Two or More Races,Accounting,Accounting Assistant IV,Remote,01-10-2003,NULL,Youngstown,Ohio,53
+03-3769740,Gardie,Paff,26-05-1984,Male,Black or African American,Human Resources,Human Resources Analyst II,Remote,10-08-2017,NULL,Cincinnati,Ohio,39
+03-3822888,Dillon,Playfair,05-11-1973,Female,American Indian or Alaska Native,Engineering,Business Systems Development Analyst,Remote,09-12-2006,NULL,Mansfield,Ohio,49
+03-3894677,Glenn,Oxtiby,03-04-1973,Female,Two or More Races,Marketing,Media Manager I,Headquarters,06-06-2018,NULL,Cleveland,Ohio,50
+03-3928645,Nikolaus,Bromell,04-05-1968,Male,Asian,Legal,Administrative Assistant,Headquarters,31-10-2004,NULL,Cleveland,Ohio,55
+03-3940060,Latia,Furzer,05-09-1990,Male,Asian,Human Resources,Human Resources Analyst,Remote,25-09-2017,NULL,Chicago,Illinois,32
+03-3949337,Gretel,Fawssett,06-05-1970,Male,White,Engineering,Computer Systems Analyst II,Remote,27-10-2009,NULL,Evanston,Illinois,53
+03-3972201,Alfonso,Salliss,30-06-1989,Male,White,Accounting,Budget/Accounting Analyst III,Remote,17-12-2006,NULL,Anderson,Indiana,34
+03-4033672,Moe,Keigher,25-10-1996,Female,Two or More Races,Research and Development,Senior Quality Engineer,Remote,12-12-2016,10-07-2037,Lima,Ohio,26
+03-4112886,Hatti,Collcutt,19-12-1969,Male,White,Accounting,Accountant III,Headquarters,26-08-2011,NULL,Cleveland,Ohio,53
+03-4116883,Mathilde,Armistead,15-03-1973,Female,Two or More Races,Services,Service Tech,Headquarters,18-11-2011,09-07-2017,Cleveland,Ohio,50
+03-4134671,Niki,Archell,07-01-1967,Male,Hispanic or Latino,Accounting,Budget/Accounting Analyst III,Headquarters,03-08-2016,18-10-2032,Cleveland,Ohio,56
+03-4161079,Nettle,Lergan,31-03-1969,Male,White,Engineering,Statistician II,Headquarters,16-05-2002,NULL,Cleveland,Ohio,54
+03-4180948,Delila,Rockcliffe,07-11-2000,Male,Two or More Races,Human Resources,Human Resources Analyst II,Headquarters,05-08-2018,24-01-2028,Cleveland,Ohio,22
+03-4231080,Ferguson,Priestman,09-05-1970,Female,American Indian or Alaska Native,Research and Development,Operator,Headquarters,01-12-2014,22-03-2017,Cleveland,Ohio,53
+03-4245735,Katerine,Hagergham,13-02-1972,Female,Two or More Races,Support,Desktop Support Technician,Headquarters,06-07-2012,02-01-2014,Cleveland,Ohio,51
+03-4405503,Delphine,Culbert,01-01-1994,Male,Two or More Races,Training,Administrative Assistant I,Headquarters,08-12-2002,NULL,Cleveland,Ohio,29
+03-4499865,Lynne,Crallan,11-02-2000,Female,Asian,Engineering,Analyst Programmer,Headquarters,18-08-2020,NULL,Cleveland,Ohio,23
+03-4552124,Melissa,Bonnor,23-08-1995,Male,Black or African American,Accounting,Cost Accountant,Remote,17-04-2001,NULL,Kalamazoo,Michigan,27
+03-4564618,Saloma,Loosley,08-11-1986,Male,White,Engineering,Systems Administrator I,Remote,23-12-2009,NULL,Valley Forge,Pennsylvania,36
+03-4610821,Maury,Lindemann,17-06-1983,Female,Asian,Accounting,Accountant I,Headquarters,04-01-2019,NULL,Cleveland,Ohio,40
+03-4617943,Herculie,Hatliff,22-11-1987,Female,Asian,Accounting,Tax Accountant,Headquarters,27-06-2017,30-10-2029,Cleveland,Ohio,35
+03-4724611,Lizabeth,McLice,10-11-1988,Female,White,Business Development,Research Assistant II,Remote,10-11-2005,28-04-2019,Evansville,Indiana,34
+03-4742398,Nisse,Wight,22-03-1981,Non-Conforming,Two or More Races,Engineering,Software Consultant,Headquarters,07-01-2012,NULL,Cleveland,Ohio,42
+03-4757897,Rowe,Fish,06-03-1991,Male,Two or More Races,Engineering,Business Analyst,Headquarters,06-03-2012,NULL,Cleveland,Ohio,32
+03-4949258,Eliot,Chatten,30-09-1988,Male,White,Engineering,Systems Administrator IV,Remote,07-07-2018,NULL,Cincinnati,Ohio,34
+03-4997422,Lombard,Meace,06-05-1993,Female,Two or More Races,Engineering,Software Test Engineer IV,Remote,22-04-2019,NULL,Pittsburgh,Pennsylvania,30
+03-5023451,Laurianne,Paulin,04-11-1993,Male,Black or African American,Engineering,Systems Administrator I,Headquarters,16-06-2013,NULL,Cleveland,Ohio,29
+03-5093987,Samara,Rew,09-02-1989,Male,Black or African American,Engineering,Database Administrator III,Headquarters,21-08-2012,NULL,Cleveland,Ohio,34
+03-5119774,Bendix,Nunson,06-08-1967,Male,Black or African American,Engineering,Software Test Engineer II,Headquarters,20-06-2004,NULL,Cleveland,Ohio,55
+03-5120478,Mano,Greatham,27-01-2002,Female,Asian,Training,Administrative Assistant I,Headquarters,14-08-2013,NULL,Cleveland,Ohio,21
+03-5122131,Gladi,Abbot,03-12-1974,Male,Asian,Accounting,Cost Accountant,Remote,07-09-2017,NULL,Carol Stream,Illinois,48
+03-5137663,Vonnie,Swaddle,20-09-1987,Female,White,Accounting,Budget/Accounting Analyst IV,Headquarters,31-10-2015,NULL,Cleveland,Ohio,35
+03-5152055,Mindy,Charlon,07-06-1987,Male,Black or African American,Engineering,Software Engineer II,Headquarters,05-02-2007,NULL,Cleveland,Ohio,36
+03-5200029,Angel,Nickols,16-05-1972,Female,Two or More Races,Accounting,Accounting Assistant III,Remote,07-02-2006,NULL,Peoria,Illinois,51
+03-5334760,Prudi,Windaybank,01-07-1990,Male,Hispanic or Latino,Support,Help Desk Operator,Headquarters,25-02-2015,NULL,Cleveland,Ohio,33
+03-5350523,Mackenzie,Drains,21-05-1983,Male,White,Business Development,Research Assistant I,Headquarters,19-05-2001,NULL,Cleveland,Ohio,40
+03-5401704,Catherin,Wiszniewski,18-07-1976,Male,Black or African American,Training,Senior Trainer,Remote,17-06-2008,NULL,Philadelphia,Pennsylvania,47
+03-5412898,Cash,Daish,26-10-1970,Female,White,Services,Service Coordinator,Headquarters,02-08-2009,NULL,Cleveland,Ohio,52
+03-5421399,Ertha,Gebuhr,05-11-1996,Male,White,Research and Development,Structural Engineer,Headquarters,20-11-2016,NULL,Cleveland,Ohio,26
+03-5469853,Ramon,Rawll,18-12-1968,Male,Two or More Races,Engineering,Senior Developer,Headquarters,22-04-2005,13-05-2015,Cleveland,Ohio,54
+03-5504104,Baillie,Kadwallider,14-01-1971,Male,Asian,Research and Development,Research Associate,Headquarters,09-08-2011,30-09-2018,Cleveland,Ohio,52
+03-5531277,Shana,Forsdyke,07-12-1991,Female,Native Hawaiian or Other Pacific Islander,Research and Development,Research Assistant I,Headquarters,06-03-2003,NULL,Cleveland,Ohio,31
+03-5537706,Kessiah,Launder,22-03-1993,Male,Black or African American,Sales,Solutions Engineer Manager,Headquarters,12-08-2003,NULL,Cleveland,Ohio,30
+03-5542064,Lambert,Finker,28-03-1973,Male,White,Engineering,Web Designer IV,Headquarters,05-04-2009,NULL,Cleveland,Ohio,50
+03-5546438,Virgilio,Goldie,10-10-1976,Male,American Indian or Alaska Native,Accounting,Tax Accountant,Headquarters,01-01-2018,NULL,Cleveland,Ohio,46
+03-5567366,Mathew,Curl,31-08-1994,Female,Black or African American,Research and Development,Structural Engineer,Headquarters,05-02-2011,26-12-2026,Cleveland,Ohio,28
+03-5674137,Godfry,Georgiades,18-02-1992,Male,Two or More Races,Sales,Solutions Engineer,Headquarters,05-10-2007,NULL,Cleveland,Ohio,31
+03-5692409,Tanny,MacRonald,08-01-1984,Female,Asian,Support,Desktop Support Technician,Remote,28-11-2015,08-03-2024,Lexington,Kentucky,39
+03-5840562,Fax,Gepheart,17-07-1992,Female,Two or More Races,Training,Training Manager,Headquarters,31-12-2011,06-11-2013,Cleveland,Ohio,31
+03-6018995,Nap,Odger,02-05-1966,Female,Black or African American,Training,Trainer I,Headquarters,20-07-2015,NULL,Cleveland,Ohio,57
+03-6039434,Candie,Degoy,18-08-1992,Male,Black or African American,Training,Junior Trainer,Headquarters,22-03-2016,NULL,Cleveland,Ohio,30
+03-6073368,Burg,Lowne,18-11-1997,Male,White,Accounting,Tax Accountant,Headquarters,21-10-2019,NULL,Cleveland,Ohio,25
+03-6119745,Maiga,Turnpenny,02-02-1978,Female,White,Engineering,Software Consultant,Headquarters,16-02-2005,NULL,Cleveland,Ohio,45
+03-6141895,Natty,Larne,05-02-1993,Female,White,Engineering,Systems Administrator I,Remote,11-07-2007,20-05-2011,Lancaster,Pennsylvania,30
+03-6200050,Rancell,Wickmann,14-06-1977,Female,Two or More Races,Human Resources,Human Resources Analyst II,Headquarters,24-11-2011,NULL,Cleveland,Ohio,46
+03-6208983,Mattie,Meneghelli,16-02-1989,Female,Two or More Races,Business Development,Research Assistant II,Remote,02-03-2012,09-08-2030,Wilkes Barre,Pennsylvania,34
+03-6230242,Barbra,Brotherton,20-07-2000,Female,Native Hawaiian or Other Pacific Islander,Accounting,Accountant III,Remote,27-04-2005,04-06-2022,Chicago,Illinois,23
+03-6241789,Janelle,Cheeke,23-09-1998,Female,White,Human Resources,Human Resources Analyst,Headquarters,03-05-2016,NULL,Cleveland,Ohio,24
+03-6259593,Sophey,Abelson,21-06-1978,Male,Native Hawaiian or Other Pacific Islander,Research and Development,Structural Engineer,Remote,11-11-2000,02-11-2009,Anderson,Indiana,45
+03-6274554,Chrystel,Longthorne,24-10-1978,Male,Asian,Business Development,Research Assistant II,Headquarters,08-09-2012,NULL,Cleveland,Ohio,44
+03-6291929,Haleigh,Le febre,07-05-1983,Male,Black or African American,Accounting,Tax Accountant,Remote,02-04-2020,NULL,Evansville,Indiana,40
+03-6346242,Somerset,De Freitas,01-07-1969,Male,Hispanic or Latino,Sales,Account Executive,Remote,07-06-2008,NULL,Madison,Wisconsin,54
+03-6373520,Karin,Bowra,09-04-2000,Male,Native Hawaiian or Other Pacific Islander,Business Development,Research Assistant I,Headquarters,17-02-2004,NULL,Cleveland,Ohio,23
+03-6388507,Wilmette,Sweating,19-06-1972,Male,Asian,Business Development,Business Analyst,Headquarters,09-06-2019,12-01-2035,Cleveland,Ohio,51
+03-6456050,Temple,Camblin,04-08-1996,Male,Asian,Sales,Account Executive,Headquarters,23-09-2013,NULL,Cleveland,Ohio,26
+03-6466657,Dmitri,Lyst,05-03-1989,Female,Black or African American,Services,Service Manager,Headquarters,05-04-2006,NULL,Cleveland,Ohio,34
+03-6480837,Dion,Ballham,05-06-1989,Female,White,Accounting,Staff Accountant III,Remote,07-05-2001,NULL,Scranton,Pennsylvania,34
+03-6484841,Darbie,Strangeway,16-07-2002,Non-Conforming,White,Sales,Pre-Sales Consultant,Remote,18-05-2004,NULL,Reading,Pennsylvania,21
+03-6565096,Stefa,McGlew,28-12-1969,Male,White,Engineering,Database Administrator II,Headquarters,07-03-2005,31-01-2006,Cleveland,Ohio,53
+03-6584728,Emery,Fields,03-12-1996,Female,Two or More Races,Accounting,Staff Accountant III,Headquarters,13-07-2005,NULL,Cleveland,Ohio,26
+03-6774187,Collen,Koschke,23-12-1986,Male,White,Engineering,Software Consultant,Remote,23-12-2013,NULL,Mansfield,Ohio,36
+03-6782343,Zea,Bryceson,23-08-1990,Male,Black or African American,Support,Community Outreach Specialist,Headquarters,30-11-2016,NULL,Cleveland,Ohio,32
+03-6799271,Mira,Grabiec,29-08-1974,Male,Black or African American,Training,Assistant Trainer,Remote,03-05-2016,26-10-2021,Milwaukee,Wisconsin,48
+03-6813978,Michelle,Coiley,13-10-1998,Male,Hispanic or Latino,Business Development,Business Analyst,Headquarters,21-06-2001,NULL,Cleveland,Ohio,24
+03-6922523,Clo,Urwin,26-03-1984,Male,Black or African American,Business Development,Research Assistant II,Headquarters,22-04-2008,NULL,Cleveland,Ohio,39
+03-6965741,Malanie,Standell,04-01-1988,Male,Two or More Races,Business Development,Research Assistant I,Headquarters,23-04-2006,NULL,Cleveland,Ohio,35
+03-6968657,Alameda,Corben,06-08-1995,Male,Two or More Races,Sales,Account Executive,Remote,03-06-2013,NULL,Springfield,Illinois,27
+03-7025123,Glory,Durrand,16-10-1968,Male,Black or African American,Engineering,Web Developer III,Headquarters,19-08-2016,NULL,Cleveland,Ohio,54
+03-7070071,Loutitia,Lambdean,26-01-2002,Female,Asian,Research and Development,Research Assistant I,Headquarters,12-01-2006,NULL,Cleveland,Ohio,21
+03-7105916,Lissi,Cone,29-04-1989,Female,American Indian or Alaska Native,Accounting,Budget/Accounting Analyst IV,Headquarters,30-03-2001,09-03-2015,Cleveland,Ohio,34
+03-7150044,Glennie,Maplesden,21-11-1965,Male,Two or More Races,Engineering,Data Visualization Specialist,Headquarters,29-11-2007,NULL,Cleveland,Ohio,57
+03-7170297,Samantha,Geldart,04-01-1995,Male,Asian,Engineering,Senior Developer,Headquarters,10-04-2010,NULL,Cleveland,Ohio,28
+03-7184324,Filberto,Frichley,11-06-1966,Female,White,Sales,Solutions Engineer Manager,Remote,11-04-2020,NULL,Evansville,Indiana,57
+03-7195800,Jeniece,Kincade,14-05-1976,Male,Black or African American,Engineering,Developer II,Headquarters,07-09-2012,NULL,Cleveland,Ohio,47
+03-7223288,Ingaberg,Sugge,03-10-2001,Female,Asian,Accounting,Accounting Assistant III,Headquarters,12-07-2004,NULL,Cleveland,Ohio,21
+03-7237297,Melisandra,Lefwich,24-02-1990,Male,Asian,Engineering,Systems Administrator III,Headquarters,29-02-2004,NULL,Cleveland,Ohio,33
+03-7264941,Brenda,Froud,26-03-1994,Male,Black or African American,Engineering,Analyst Programmer,Remote,07-05-2019,NULL,Toledo,Ohio,29
+03-7281272,Case,Rossbrook,18-08-2000,Male,Black or African American,Engineering,Systems Administrator II,Headquarters,20-09-2006,NULL,Cleveland,Ohio,22
+03-7289895,Noel,Coode,29-08-1976,Non-Conforming,Black or African American,Engineering,Business Systems Development Analyst,Headquarters,20-04-2008,NULL,Cleveland,Ohio,46
+03-7318583,Duke,Sleith,27-08-1999,Male,White,Training,Trainer III,Headquarters,01-06-2018,NULL,Cleveland,Ohio,23
+03-7422481,Harald,Dyott,06-10-1969,Female,Black or African American,Engineering,Systems Administrator II,Headquarters,08-07-2002,NULL,Cleveland,Ohio,53
+03-7429251,Philippe,Marflitt,09-12-1986,Male,White,Human Resources,Recruiter,Remote,05-09-2014,NULL,Springfield,Illinois,36
+03-7440922,Odetta,Genner,13-08-1971,Male,Black or African American,Accounting,Senior Cost Accountant,Headquarters,05-11-2018,NULL,Cleveland,Ohio,51
+03-7503922,Tripp,Shillito,03-06-1969,Male,Two or More Races,Training,Trainer II,Headquarters,30-01-2013,NULL,Cleveland,Ohio,54
+03-7508500,Dwight,Di Pietro,22-06-1997,Male,Two or More Races,Engineering,Programmer III,Remote,24-06-2015,NULL,Levittown,Pennsylvania,26
+03-7539654,Barb,Grewes,18-01-1979,Male,Hispanic or Latino,Training,Senior Trainer,Headquarters,19-02-2011,NULL,Cleveland,Ohio,44
+03-7557134,Stefa,Churcher,16-08-1972,Male,White,Training,Trainer II,Headquarters,08-02-2013,12-01-2032,Cleveland,Ohio,50
+03-7568232,Lorilee,Barrat,24-03-1984,Female,Asian,Support,Desktop Support Technician,Remote,18-03-2004,NULL,Louisville,Kentucky,39
+03-7606184,Chris,Tuson,27-12-1987,Male,Black or African American,Engineering,Computer Systems Analyst II,Headquarters,24-09-2011,NULL,Cleveland,Ohio,35
+03-7622489,Bale,Oldroyde,23-03-1996,Male,Two or More Races,Engineering,Data Coordiator,Remote,26-12-2014,02-05-2022,Indianapolis,Indiana,27
+03-7625243,Pavlov,Treanor,03-05-1983,Female,American Indian or Alaska Native,Support,Desktop Support Technician,Headquarters,14-05-2013,NULL,Cleveland,Ohio,40
+03-7646349,Bertrand,Smithers,22-11-1982,Male,Asian,Engineering,Programmer IV,Headquarters,14-06-2007,NULL,Cleveland,Ohio,40
+03-7911811,Howard,Rushbrooke,24-05-2001,Male,Asian,Training,Trainer III,Remote,29-04-2020,NULL,Indianapolis,Indiana,22
+03-7913314,Emalee,Regenhardt,26-04-1990,Female,Two or More Races,Sales,Relationshiop Manager,Headquarters,07-02-2012,NULL,Cleveland,Ohio,33
+03-7949684,Elly,Cafe,19-05-2000,Male,Black or African American,Accounting,Staff Accountant I,Headquarters,23-03-2003,NULL,Cleveland,Ohio,23
+03-8031381,Sandie,Bote,22-08-1986,Female,Black or African American,Research and Development,Research Associate,Headquarters,16-07-2013,NULL,Cleveland,Ohio,36
+03-8051970,Madelle,Ryles,18-06-1966,Female,American Indian or Alaska Native,Accounting,Cost Accountant,Headquarters,16-10-2007,NULL,Cleveland,Ohio,57
+03-8174022,Corrie,Fasset,27-10-1976,Female,Black or African American,Engineering,Computer Systems Analyst IV,Headquarters,16-07-2020,NULL,Cleveland,Ohio,46
+03-8226312,Hannie,Bulpitt,17-04-1969,Non-Conforming,White,Engineering,Data Visualization Specialist,Headquarters,26-01-2012,NULL,Cleveland,Ohio,54
+03-8254878,Cly,Charrier,28-10-1984,Female,Asian,Human Resources,HR Manager,Remote,14-07-2011,NULL,Flint,Michigan,38
+03-8257408,Mendy,Doiley,18-01-1994,Male,Hispanic or Latino,Sales,Solutions Engineer,Headquarters,09-02-2014,NULL,Cleveland,Ohio,29
+03-8302577,Karlotta,Inskipp,02-11-1968,Female,Hispanic or Latino,Human Resources,Recruiter,Headquarters,04-07-2004,NULL,Cleveland,Ohio,54
+03-8309835,Nixie,Wheal,30-06-1990,Male,White,Training,Trainer I,Remote,25-03-2008,NULL,Dayton,Ohio,33
+03-8346904,Carissa,Goosey,02-10-1990,Male,Native Hawaiian or Other Pacific Islander,Engineering,Programmer Analyst I,Headquarters,27-07-2015,NULL,Cleveland,Ohio,32
+03-8363408,Allison,Trase,18-08-1982,Male,Native Hawaiian or Other Pacific Islander,Training,Training Manager,Remote,12-04-2011,NULL,Indianapolis,Indiana,40
+03-8379640,Elmo,Aylmer,18-10-2001,Male,Black or African American,Engineering,Software Engineer I,Headquarters,05-04-2007,NULL,Cleveland,Ohio,21
+03-8390139,Pepillo,Judson,10-08-2001,Female,White,Legal,Administrative Assistant,Headquarters,15-04-2017,NULL,Cleveland,Ohio,21
+03-8472914,Reagan,Mellhuish,11-03-1987,Male,Asian,Sales,Account Executive,Remote,16-02-2018,12-10-2037,Columbus,Ohio,36
+03-8474248,Jocko,Kidder,14-04-1989,Male,White,Sales,Account Executive,Headquarters,18-06-2002,17-09-2005,Cleveland,Ohio,34
+03-8494601,Rebekah,Jakolevitch,29-12-1975,Female,Two or More Races,Engineering,Analyst Programmer,Headquarters,12-11-2007,NULL,Cleveland,Ohio,47
+03-8563298,Marylynne,Gowanlock,07-06-1983,Female,Two or More Races,Legal,Administrative Assistant,Headquarters,04-10-2013,NULL,Cleveland,Ohio,40
+03-8574195,Breanne,Keming,28-11-1973,Male,White,Services,Service Tech,Headquarters,16-03-2005,28-07-2017,Cleveland,Ohio,49
+03-8600680,Evonne,Fenna,15-10-1983,Male,White,Accounting,Financial Analyst,Headquarters,01-09-2016,12-05-2030,Cleveland,Ohio,39
+03-8610325,Willow,Lytton,23-06-1970,Male,Hispanic or Latino,Research and Development,Structural Engineer,Headquarters,29-05-2016,NULL,Cleveland,Ohio,53
+03-8658300,Fayth,Danaher,07-12-1979,Female,Hispanic or Latino,Training,Trainer I,Headquarters,31-08-2013,NULL,Cleveland,Ohio,43
+03-8670660,Sampson,Wandrack,21-08-1970,Male,Hispanic or Latino,Support,Desktop Support Technician,Remote,20-09-2017,NULL,Chicago,Illinois,52
+03-8822623,Olav,Viccars,25-10-1991,Male,Asian,Accounting,Accountant I,Headquarters,07-02-2011,NULL,Cleveland,Ohio,31
+03-8848707,Juliet,Garford,26-08-1968,Female,Two or More Races,Sales,Account Executive,Headquarters,19-08-2006,NULL,Cleveland,Ohio,54
+03-8942448,Beck,Drewery,16-12-1971,Non-Conforming,Black or African American,Support,Desktop Support Technician,Headquarters,18-04-2009,NULL,Cleveland,Ohio,51
+03-9079709,Berkeley,Pagen,11-10-1986,Male,White,Engineering,Programmer IV,Remote,07-10-2020,NULL,Bloomington,Indiana,36
+03-9086109,Caitrin,Robinett,13-03-1969,Male,Two or More Races,Business Development,Research Assistant II,Headquarters,18-05-2009,25-04-2028,Cleveland,Ohio,54
+03-9094799,Kelsy,Thecham,06-11-1975,Female,Asian,Engineering,Systems Administrator IV,Remote,07-10-2020,NULL,Pittsburgh,Pennsylvania,47
+03-9110050,Wain,Cawley,29-06-1982,Male,Hispanic or Latino,Sales,Account Executive,Remote,25-12-2014,NULL,Indianapolis,Indiana,41
+03-9139361,Donal,Redit,30-07-1973,Female,White,Accounting,Accountant IV,Headquarters,05-03-2012,09-02-2032,Cleveland,Ohio,49
+03-9177173,Bliss,Sebire,08-06-1995,Male,White,Sales,Relationshiop Manager,Headquarters,24-10-2007,NULL,Cleveland,Ohio,28
+03-9273650,Camile,Canete,15-11-1966,Female,White,Services,Service Tech,Headquarters,16-09-2009,NULL,Cleveland,Ohio,56
+03-9323730,Jethro,Wiggall,16-07-1998,Female,White,Engineering,Software Test Engineer II,Headquarters,02-08-2007,NULL,Cleveland,Ohio,25
+03-9427024,Hervey,Nellis,02-11-1988,Female,Black or African American,Accounting,Accountant I,Headquarters,12-03-2009,27-02-2013,Cleveland,Ohio,34
+03-9475436,Caralie,Thunderchief,11-03-1970,Male,White,Engineering,Developer IV,Headquarters,04-05-2008,NULL,Cleveland,Ohio,53
+03-9491277,Alejoa,Knightsbridge,29-12-1995,Female,White,Services,Service Manager,Remote,25-11-2001,NULL,Cincinnati,Ohio,27
+03-9496356,Richmond,Vicioso,24-12-1976,Male,White,Marketing,Senior Editor,Headquarters,31-12-2014,NULL,Cleveland,Ohio,46
+03-9523390,Conway,Walford,04-07-1979,Male,White,Human Resources,Human Resources Analyst,Headquarters,12-02-2008,NULL,Cleveland,Ohio,44
+03-9593488,Jillane,Webbe,25-05-1996,Female,Hispanic or Latino,Sales,Account Executive,Headquarters,22-11-2004,NULL,Cleveland,Ohio,27
+03-9648615,Teddie,Davinet,20-10-1973,Male,Black or African American,Engineering,Computer Systems Analyst III,Headquarters,14-02-2002,NULL,Cleveland,Ohio,49
+03-9688688,Weylin,Gerin,03-05-1994,Male,White,Engineering,Software Engineer II,Headquarters,05-06-2003,16-01-2005,Cleveland,Ohio,29
+03-9718431,Pearl,Meachan,08-10-1992,Female,Asian,Business Development,Business Analyst,Remote,31-03-2018,NULL,Detroit,Michigan,30
+03-9770134,Sandy,Beebe,02-02-1970,Female,White,Services,Service Tech,Headquarters,19-09-2014,NULL,Cleveland,Ohio,53
+03-9772508,Nadia,Legerton,05-01-1980,Male,White,Business Development,Research Assistant II,Headquarters,28-08-2003,NULL,Cleveland,Ohio,43
+03-9868932,Marline,Peinke,20-01-2002,Male,Hispanic or Latino,Accounting,Staff Accountant I,Remote,12-05-2020,NULL,Lansing,Michigan,21
+03-9903741,Sallyanne,Benedtti,25-04-1982,Male,Asian,Services,Service Manager,Remote,28-05-2011,04-07-2017,Columbus,Ohio,41
+03-9916070,Fallon,Yorkston,19-11-1984,Male,White,Training,Senior Trainer,Remote,23-08-2014,NULL,Chicago,Illinois,38
+03-9918758,Wenonah,Idell,24-01-1992,Female,Hispanic or Latino,Accounting,Cost Accountant,Headquarters,26-02-2009,NULL,Cleveland,Ohio,31
+04-0019688,Hugh,MacGinlay,19-01-1980,Female,Hispanic or Latino,Engineering,Software Consultant,Headquarters,26-11-2003,NULL,Cleveland,Ohio,43
+04-0071334,Dewain,Bennington,12-02-1995,Female,Hispanic or Latino,Business Development,Research Assistant II,Headquarters,09-03-2005,NULL,Cleveland,Ohio,28
+04-0115409,Eudora,Camber,04-08-1995,Male,Black or African American,Human Resources,Human Resources Analyst,Headquarters,01-06-2012,NULL,Cleveland,Ohio,27
+04-0127689,Karilynn,Terbeck,11-01-1979,Male,White,Research and Development,Structural Analysis Engineer,Headquarters,18-11-2020,NULL,Cleveland,Ohio,44
+04-0137112,Pancho,Cianelli,24-08-1978,Male,Black or African American,Training,Content Developer III,Remote,30-09-2014,NULL,Champaign,Illinois,44
+04-0170050,Matthew,Whines,30-08-1981,Female,Hispanic or Latino,Engineering,VP Quality Control,Remote,14-08-2013,NULL,Gary,Indiana,41
+04-0287028,Reid,Riccelli,23-09-1969,Male,White,Accounting,Accounting Assistant IV,Headquarters,25-02-2019,04-05-2033,Cleveland,Ohio,53
+04-0397715,Codi,Workes,19-09-1969,Non-Conforming,Hispanic or Latino,Services,Service Manager,Headquarters,05-08-2013,NULL,Cleveland,Ohio,53
+04-0458144,Xerxes,Stango,15-03-1984,Male,Hispanic or Latino,Services,Service Tech II,Headquarters,23-02-2016,NULL,Cleveland,Ohio,39
+04-0486141,Zaneta,McKelvey,03-02-1978,Male,American Indian or Alaska Native,Research and Development,Structural Engineer,Headquarters,01-08-2008,21-05-2023,Cleveland,Ohio,45
+04-0486272,Scotti,Shropshire,01-06-1995,Male,White,Business Development,Business Development Manager,Headquarters,15-11-2010,NULL,Cleveland,Ohio,28
+04-0609290,Dorthea,Careswell,09-07-1975,Female,Hispanic or Latino,Accounting,Administrative Officer,Headquarters,27-01-2020,NULL,Cleveland,Ohio,48
+04-0612394,Luz,Bus,22-05-1982,Female,White,Services,Service Tech,Headquarters,23-11-2000,NULL,Cleveland,Ohio,41
+04-0617554,Waylen,Conley,10-06-1990,Female,Two or More Races,Engineering,Programmer III,Headquarters,27-01-2020,NULL,Cleveland,Ohio,33
+04-0645125,Daphne,de Cullip,02-04-1979,Male,Two or More Races,Accounting,Financial Analyst,Headquarters,01-10-2010,NULL,Cleveland,Ohio,44
+04-0724749,Tomkin,Gives,19-11-1999,Female,Black or African American,Services,Service Tech III,Headquarters,01-06-2001,NULL,Cleveland,Ohio,23
+04-0790659,Leora,Rippingall,14-02-2001,Male,Asian,Accounting,Accountant IV,Headquarters,06-12-2002,NULL,Cleveland,Ohio,22
+04-0875007,Kimbell,Dibner,13-01-2000,Female,Hispanic or Latino,Sales,Solutions Engineer Manager,Remote,23-12-2016,NULL,Lexington,Kentucky,23
+04-1000457,Whitman,Little,27-10-1999,Male,Black or African American,Services,Service Tech II,Headquarters,22-08-2011,13-02-2029,Cleveland,Ohio,23
+04-1066063,Celene,Killiam,05-12-1994,Female,American Indian or Alaska Native,Accounting,Tax Accountant,Headquarters,02-05-2004,27-09-2011,Cleveland,Ohio,28
+04-1085395,Moore,Tarbet,06-10-1998,Female,White,Services,Service Coordinator,Headquarters,16-12-2019,NULL,Cleveland,Ohio,24
+04-1119302,Libby,Magnus,03-06-1972,Female,Two or More Races,Auditing,Internal Auditor,Headquarters,24-05-2014,NULL,Cleveland,Ohio,51
+04-1160870,Fredericka,Bust,17-08-1997,Female,White,Training,Administrative Assistant I,Headquarters,25-03-2003,02-05-2021,Cleveland,Ohio,25
+04-1234390,Yorker,Rainey,06-02-1976,Male,Two or More Races,Engineering,Systems Administrator IV,Headquarters,23-09-2007,NULL,Cleveland,Ohio,47
+04-1286704,Zahara,Annakin,03-03-1976,Male,White,Business Development,Research Assistant III,Headquarters,22-02-2006,NULL,Cleveland,Ohio,47
+04-1323143,Maynord,Burvill,20-11-1996,Non-Conforming,Asian,Engineering,Software Engineer I,Remote,15-03-2002,NULL,Detroit,Michigan,26
+04-1372525,Lesley,Blowers,07-12-1997,Male,White,Human Resources,Human Resources Analyst,Headquarters,28-02-2004,NULL,Cleveland,Ohio,25
+04-1374177,Kendell,Cooksley,25-11-1972,Male,Black or African American,Engineering,Software Engineer III,Headquarters,06-01-2016,NULL,Cleveland,Ohio,50
+04-1411959,Ellsworth,Stickins,26-03-1972,Female,American Indian or Alaska Native,Engineering,Systems Administrator I,Headquarters,10-04-2013,NULL,Cleveland,Ohio,51
+04-1436193,Karla,Braney,03-04-1983,Female,White,Accounting,Financial Analyst,Headquarters,01-01-2014,10-09-2018,Cleveland,Ohio,40
+04-1500679,Phyllys,Rigbye,26-02-2000,Male,Hispanic or Latino,Services,Service Tech III,Headquarters,20-10-2018,NULL,Cleveland,Ohio,23
+04-1517613,Teodoor,Pedgrift,11-06-2002,Female,White,Engineering,Business Systems Development Analyst,Headquarters,26-01-2006,10-05-2010,Cleveland,Ohio,21
+04-1599995,Cinderella,Garforth,14-09-1968,Male,White,Support,Help Desk Technician,Remote,21-07-2020,12-06-2039,Toledo,Ohio,54
+04-1612765,Natalee,Veldstra,18-03-1970,Male,Hispanic or Latino,Product Management,Project Manager,Headquarters,02-09-2006,NULL,Cleveland,Ohio,53
+04-1633134,Karalynn,Liptrot,24-05-1966,Non-Conforming,White,Engineering,Computer Systems Analyst II,Remote,12-02-2001,20-08-2012,Cincinnati,Ohio,57
+04-1678316,Trip,Drynan,12-02-2001,Male,Two or More Races,Sales,Pre-Sales Consultant,Headquarters,06-10-2006,NULL,Cleveland,Ohio,22
+04-1721497,Antonia,Hallyburton,27-02-2002,Female,Hispanic or Latino,Engineering,Software Test Engineer II,Headquarters,02-09-2005,NULL,Cleveland,Ohio,21
+04-1746693,Gail,Adacot,19-08-1983,Female,Hispanic or Latino,Human Resources,Recruiter,Headquarters,22-04-2009,NULL,Cleveland,Ohio,39
+04-1788055,Stanfield,Sandhill,09-11-1971,Male,White,Sales,Account Manager,Remote,02-06-2011,NULL,Peoria,Illinois,51
+04-1818200,Jewell,Stigers,14-12-1987,Female,Asian,Research and Development,Operator,Headquarters,05-08-2011,NULL,Cleveland,Ohio,35
+04-1837197,Durand,Osmon,02-12-2001,Female,Black or African American,Human Resources,Recruiter,Headquarters,12-11-2001,NULL,Cleveland,Ohio,21
+04-1846467,Georgy,Snailham,28-05-1970,Female,White,Services,Service Coordinator,Headquarters,10-01-2009,25-02-2020,Cleveland,Ohio,53
+04-1857862,Jonis,Twallin,16-03-1988,Female,White,Training,Assistant Trainer,Remote,02-08-2007,NULL,Pittsburgh,Pennsylvania,35
+04-1871859,Denys,Jozwicki,05-08-2001,Female,Asian,Accounting,Tax Accountant,Headquarters,21-03-2001,NULL,Cleveland,Ohio,21
+04-1923412,Cahra,Goodfellowe,05-10-2000,Non-Conforming,Two or More Races,Business Development,Research Assistant I,Remote,11-04-2007,NULL,Lexington,Kentucky,22
+04-1935901,Davine,Shickle,24-02-2000,Male,Two or More Races,Engineering,Software Engineer I,Headquarters,07-09-2004,NULL,Cleveland,Ohio,23
+04-1943845,Novelia,Gregory,15-09-1990,Female,Hispanic or Latino,Human Resources,Human Resources Analyst II,Remote,24-11-2002,NULL,Cincinnati,Ohio,32
+04-1956562,Winn,Burgis,10-02-1992,Male,Asian,Engineering,Analyst Programmer,Headquarters,04-04-2001,NULL,Cleveland,Ohio,31
+04-1988024,Adams,Schwandermann,21-09-1997,Female,White,Support,Automation Specialist III,Remote,14-06-2009,NULL,Evansville,Indiana,25
+04-2016958,Arne,Olekhov,01-06-2002,Female,White,Engineering,Senior Developer,Headquarters,28-12-2007,NULL,Cleveland,Ohio,21
+04-2217131,Gerome,Woolsey,30-04-1968,Non-Conforming,White,Support,Help Desk Operator,Headquarters,25-12-2004,NULL,Cleveland,Ohio,55
+04-2502697,Abdul,Baxster,16-03-1989,Male,White,Services,Service Tech,Headquarters,08-04-2008,NULL,Cleveland,Ohio,34
+04-2503836,Berky,Franek,10-06-1976,Non-Conforming,Asian,Human Resources,Human Resources Analyst II,Remote,18-09-2016,15-06-2031,Toledo,Ohio,47
+04-2541887,Viva,Posthill,03-02-1976,Female,American Indian or Alaska Native,Engineering,Software Engineer I,Remote,15-10-2007,NULL,Pittsburgh,Pennsylvania,47
+04-2559661,Benji,Lilburne,18-12-1970,Male,White,Marketing,Editor,Remote,03-11-2019,NULL,Chicago,Illinois,52
+04-2578689,Ciro,Byford,03-03-1968,Male,Hispanic or Latino,Business Development,Research Assistant II,Remote,31-05-2002,28-08-2005,Columbus,Ohio,55
+04-2591163,Kessiah,Hubbuck,20-03-1984,Male,Two or More Races,Accounting,Accountant IV,Headquarters,07-04-2015,NULL,Cleveland,Ohio,39
+04-2618469,Emilie,Parlott,06-05-1980,Male,White,Engineering,Software Engineer I,Headquarters,07-03-2009,NULL,Cleveland,Ohio,43
+04-2654803,Angelica,Hutchinson,21-07-1988,Female,White,Business Development,Research Assistant I,Headquarters,12-08-2005,NULL,Cleveland,Ohio,35
+04-2669440,Belva,Howard,01-10-1990,Female,Two or More Races,Engineering,Software Consultant,Remote,04-07-2016,NULL,Dayton,Ohio,32
+04-2717361,Melitta,Sictornes,12-02-1986,Female,White,Engineering,Senior Developer,Remote,10-01-2016,NULL,Grand Rapids,Michigan,37
+04-2743367,Gleda,Tingcomb,04-05-1982,Male,White,Support,Desktop Support Technician,Remote,31-10-2007,01-08-2028,Cleveland,Ohio,41
+04-2778809,Maryl,Di Franceshci,20-08-1988,Female,Black or African American,Sales,Solutions Engineer,Headquarters,22-10-2020,NULL,Cleveland,Ohio,34
+04-2949941,Elisha,D'Onisi,09-09-2000,Male,Asian,Accounting,Financial Analyst,Headquarters,19-03-2009,NULL,Cleveland,Ohio,22
+04-3018897,Steward,Matheson,29-11-1973,Male,Asian,Research and Development,Operator,Headquarters,23-11-2002,27-10-2021,Cleveland,Ohio,49
+04-3024359,Ignacius,Axup,03-11-1970,Male,Hispanic or Latino,Human Resources,Recruiter,Remote,23-09-2012,NULL,Dayton,Ohio,52
+04-3041766,Conney,Boice,07-08-1971,Female,White,Business Development,Research Assistant II,Headquarters,16-06-2017,NULL,Cleveland,Ohio,51
+04-3121457,Dewain,Sheryn,18-06-1993,Male,White,Engineering,Systems Administrator III,Headquarters,11-08-2010,NULL,Cleveland,Ohio,30
+04-3294525,Tracee,Tregoning,03-09-1998,Female,White,Human Resources,Compensation Analyst,Headquarters,03-05-2002,NULL,Cleveland,Ohio,24
+04-3311629,Kailey,Eick,26-10-1976,Male,American Indian or Alaska Native,Engineering,Software Test Engineer II,Headquarters,31-08-2018,NULL,Cleveland,Ohio,46
+04-3339181,Marthe,Cardenoso,04-03-2001,Male,Black or African American,Training,Trainer I,Remote,12-10-2012,NULL,Peoria,Illinois,22
+04-3438253,Murdoch,Karran,13-05-1970,Female,White,Product Management,Senior Quality Engineer,Headquarters,22-06-2008,20-01-2027,Cleveland,Ohio,53
+04-3481867,Elga,Clough,25-12-1993,Female,White,Accounting,Actuary,Remote,17-12-2003,NULL,Louisville,Kentucky,29
+04-3494381,Ermin,Neachell,24-01-1984,Male,Hispanic or Latino,Sales,Account Executive,Headquarters,05-05-2018,NULL,Cleveland,Ohio,39
+04-3638607,Ardelis,Hartill,25-02-1994,Non-Conforming,Asian,Support,Desktop Support Technician,Headquarters,13-06-2013,16-10-2029,Cleveland,Ohio,29
+04-3674710,Borg,Anwell,21-04-1967,Female,Asian,Business Development,Research Assistant II,Headquarters,12-10-2004,02-12-2020,Cleveland,Ohio,56
+04-3676583,Martguerita,Joubert,09-02-1988,Male,Asian,Services,Service Tech,Headquarters,05-11-2011,NULL,Cleveland,Ohio,35
+04-3693859,Garth,Laughton,20-01-1999,Male,Two or More Races,Legal,Paralegal,Headquarters,24-08-2005,NULL,Cleveland,Ohio,24
+04-3725112,Maurita,Spino,10-03-1970,Female,White,Engineering,Software Engineer I,Remote,11-06-2003,10-01-2008,Grand Rapids,Michigan,53
+04-3836718,Archy,Midgely,13-08-1985,Non-Conforming,White,Engineering,Web Developer II,Headquarters,28-07-2010,NULL,Cleveland,Ohio,37
+04-3868074,Elmer,Aviss,16-05-1979,Male,White,Human Resources,Human Resources Analyst II,Remote,25-05-2012,21-03-2025,Youngstown,Ohio,44
+04-3958437,Nanete,Antonomolii,08-05-1995,Female,Black or African American,Engineering,Software Consultant,Headquarters,13-11-2002,NULL,Cleveland,Ohio,28
+04-4001420,Kordula,Enrique,04-03-1999,Female,Asian,Sales,Account Executive,Headquarters,15-03-2017,NULL,Cleveland,Ohio,24
+04-4059376,Levin,Rosenfeld,12-08-1988,Non-Conforming,Hispanic or Latino,Engineering,Programmer IV,Headquarters,07-12-2003,25-02-2021,Cleveland,Ohio,34
+04-4062784,Zarla,Scudamore,06-10-1996,Female,White,Engineering,Mechanical Systems Engineer,Headquarters,19-08-2004,NULL,Cleveland,Ohio,26
+04-4191796,Nanci,Maevela,05-11-1970,Female,Two or More Races,Sales,Solutions Engineer Manager,Headquarters,27-10-2004,NULL,Cleveland,Ohio,52
+04-4214287,Rickie,Strelitzki,25-04-1977,Male,Asian,Engineering,Computer Systems Analyst IV,Headquarters,19-05-2009,NULL,Cleveland,Ohio,46
+04-4219018,Abigail,Kordova,10-06-1976,Male,White,Business Development,Business Analyst,Remote,14-07-2008,NULL,South Bend,Indiana,47
+04-4268745,Aldus,Hue,03-01-1980,Female,Two or More Races,Engineering,Structural Analysis Engineer,Remote,27-08-2003,NULL,Cleveland,Ohio,43
+04-4276662,Ashlen,Kleisle,22-07-1993,Male,White,Engineering,Programmer Analyst III,Headquarters,28-10-2000,NULL,Cleveland,Ohio,30
+04-4365552,Zandra,Semaine,31-03-2002,Female,Native Hawaiian or Other Pacific Islander,Engineering,Data Visualization Specialist,Headquarters,10-08-2008,NULL,Cleveland,Ohio,21
+04-4427497,Kalie,Hamsley,12-04-1970,Male,White,Engineering,Analyst Programmer,Headquarters,31-10-2018,NULL,Cleveland,Ohio,53
+04-4432591,Mitchael,Kilpin,06-03-1984,Female,Hispanic or Latino,Accounting,Senior Cost Accountant,Headquarters,31-08-2006,NULL,Cleveland,Ohio,39
+04-4433754,Erskine,Kunkler,10-10-2001,Female,Black or African American,Accounting,Financial Analyst,Headquarters,16-03-2012,NULL,Cleveland,Ohio,21
+04-4464846,Eloisa,Colafate,18-05-1988,Male,Two or More Races,Engineering,Programmer Analyst III,Headquarters,17-09-2006,17-03-2021,Cleveland,Ohio,35
+04-4466129,Fin,Brigginshaw,05-06-1987,Female,White,Engineering,Software Engineer I,Headquarters,28-10-2001,NULL,Cleveland,Ohio,36
+04-4479364,Barron,Zannelli,08-07-1978,Male,Two or More Races,Engineering,Recruiting Manager,Headquarters,25-07-2018,NULL,Cleveland,Ohio,45
+04-4546187,Rosmunda,Slack,17-08-1980,Male,Native Hawaiian or Other Pacific Islander,Sales,Pre-Sales Consultant,Remote,16-03-2003,NULL,Detroit,Michigan,42
+04-4554597,Theresa,Imlaw,16-05-1977,Female,Two or More Races,Engineering,Systems Administrator I,Remote,23-01-2016,NULL,Springfield,Illinois,46
+04-4651229,Magda,Divina,14-01-1973,Male,White,Engineering,Web Developer III,Headquarters,25-08-2015,NULL,Cleveland,Ohio,50
+04-4671409,Sawyer,Braunds,11-04-1971,Female,Two or More Races,Business Development,Research Assistant I,Headquarters,15-09-2012,18-08-2013,Cleveland,Ohio,52
+04-4699295,Rafferty,Arnoult,22-10-1998,Female,Asian,Accounting,Accounting Assistant I,Headquarters,23-07-2007,NULL,Cleveland,Ohio,24
+04-4750324,Luther,Dedenham,11-04-1977,Male,Two or More Races,Human Resources,Human Resources Analyst II,Headquarters,10-04-2007,NULL,Cleveland,Ohio,46
+04-5001304,Sadella,Colcutt,06-10-1991,Female,Two or More Races,Training,Content Developer II,Remote,30-07-2001,NULL,Philadelphia,Pennsylvania,31
+04-5004960,Allianora,Hardage,15-01-1994,Male,White,Human Resources,Senior Recruiter,Headquarters,02-01-2005,NULL,Cleveland,Ohio,29
+04-5047920,Kelby,Rycroft,25-03-1971,Male,White,Legal,Senior Attorney,Headquarters,29-08-2005,NULL,Cleveland,Ohio,52
+04-5106789,Hartwell,Bercher,06-06-1981,Male,Asian,Product Management,General Manager,Headquarters,11-10-2015,NULL,Cleveland,Ohio,42
+04-5137134,Kira,Gilling,11-02-1970,Female,Asian,Engineering,Programmer III,Headquarters,07-11-2014,NULL,Cleveland,Ohio,53
